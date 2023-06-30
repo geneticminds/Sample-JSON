@@ -1,0 +1,35 @@
+[
+   {
+      "id":1,
+      "new":true,
+      "strategyID":"EQ",
+      "section":"EQ",
+      "date":"2000-01-01",
+      "time":"12:03:01",
+      "script":"SBIN",
+      "buySell":"but",
+      "strike":123
+   },
+   {
+      "id":2,
+      "new":true,
+      "strategyID":"EQ",
+      "section":"EQ",
+      "date":"2000-01-01",
+      "time":"12:03:01",
+      "script":"SBIN",
+      "buySell":"but",
+      "strike":123
+   },
+   {
+      "id":3,
+      "new":true,
+      "strategyID":"EQ",
+      "section":"EQ",
+      "date":"2000-01-01",
+      "time":"12:03:01",
+      "script":"SBIN",
+      "buySell":"but",
+      "strike":123
+   }
+]
