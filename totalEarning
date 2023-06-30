@@ -1,0 +1,20 @@
+[
+   {
+      "progress":75,
+      "title":"Equity",
+      "color":"primary",
+      "amount":"$24,450"
+   },
+   {
+      "progress":59,
+      "title":"Options",
+      "color":"success",
+      "amount":"$12,763"
+   },
+   {
+      "progress":20,
+      "title":"Futures",
+      "color":"error",
+      "amount":" $4,978"
+   }
+]
