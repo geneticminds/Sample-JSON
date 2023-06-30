@@ -1,0 +1,62 @@
+[
+   {
+      "id":1,
+      "product":"Product 1",
+      "instrument":"Instrument 1",
+      "qty":100,
+      "avg":50.25,
+      "ltp":55.75,
+      "pnl":520,
+      "chg":0.15
+   },
+   {
+      "id":10,
+      "product":"Product 2",
+      "instrument":"Instrument 10",
+      "qty":80,
+      "avg":30.5,
+      "ltp":35.75,
+      "pnl":-420,
+      "chg":-0.25
+   },
+   {
+      "id":10,
+      "product":"Product 3",
+      "instrument":"Instrument 10",
+      "qty":80,
+      "avg":30.5,
+      "ltp":35.75,
+      "pnl":-420,
+      "chg":-0.25
+   },
+   {
+      "id":10,
+      "product":"Product 4",
+      "instrument":"Instrument 10",
+      "qty":80,
+      "avg":30.5,
+      "ltp":35.75,
+      "pnl":-420,
+      "chg":-0.25
+   },
+   {
+      "id":10,
+      "product":"Product 5",
+      "instrument":"Instrument 10",
+      "qty":80,
+      "avg":30.5,
+      "ltp":35.75,
+      "pnl":-420,
+      "chg":-0.25
+   },
+   {
+      "id":11,
+      "product":"Product 5",
+      "instrument":"Instrument 10",
+      "qty":80,
+      "avg":30.5,
+      "ltp":35.75,
+      "pnl":-420,
+      "chg":-0.25
+   }
+]
