@@ -1,0 +1,12 @@
+[
+   {
+      "id":1,
+      "section":"EQ",
+      "date":"2023-01-01",
+      "time":"12:1:12",
+      "script":"SBIN",
+      "buySell":"Buy",
+      "strike":766,
+      "status":"success"
+   }
+]
