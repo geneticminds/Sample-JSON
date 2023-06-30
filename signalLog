@@ -1,557 +1,557 @@
 [
-  {
-    "signalId": "60e5efdb99f63a1b5cf6e3c1",
-    "section": {
-      "sectionId": "60e5efdb99f63a1b5cf6e3c2",
-      "sectionName": "EQ"
-    },
-    "dateTime": "2023-01-01 12:01:30",
-    "timestamp": "1641028890",
-    "script": {
-      "scriptId": "60e5efdb99f63a1b5cf6e3c3",
-      "scriptName": "RELIANCE"
-    },
-    "type": "SELL",
-    "strikePrice": 2545.75
-  },
-  {
-    "signalId": "60e5efdb99f63a1b5cf6e3dc",
-    "section": {
-      "sectionId": "60e5efdb99f63a1b5cf6e3dd",
-      "sectionName": "EQ"
-    },
-    "dateTime": "2023-01-10 09:45:50",
-    "timestamp": "1641762350",
-    "script": {
-      "scriptId": "60e5efdb99f63a1b5cf6e3de",
-      "scriptName": "AXISBANK"
-    },
-    "type": "BUY",
-    "strikePrice": 995.90
-  },
-  {
-    "signalId": "60e5efdb99f63a1b5cf6e3df",
-    "section": {
-      "sectionId": "60e5efdb99f63a1b5cf6e3e0",
-      "sectionName": "FO"
-    },
-    "dateTime": "2023-01-11 12:55:30",
-    "timestamp": "1641855330",
-    "script": {
-      "scriptId": "60e5efdb99f63a1b5cf6e3e1",
-      "scriptName": "BAJFINANCE"
-    },
-    "type": "SELL",
-    "strikePrice": 7161.90
-  },
-  {
-    "signalId": "60e5efdb99f63a1b5cf6e3e2",
-    "section": {
-      "sectionId": "60e5efdb99f63a1b5cf6e3e3",
-      "sectionName": "EQ"
-    },
-    "dateTime": "2023-01-12 14:40:55",
-    "timestamp": "1641950455",
-    "script": {
-      "scriptId": "60e5efdb99f63a1b5cf6e3e4",
-      "scriptName": "SBIN"
-    },
-    "type": "BUY",
-    "strikePrice": 586.80
-  },
-  {
-    "signalId": "60e5efdb99f63a1b5cf6e3e5",
-    "section": {
-      "sectionId": "60e5efdb99f63a1b5cf6e3e6",
-      "sectionName": "FO"
-    },
-    "dateTime": "2023-01-13 09:15:20",
-    "timestamp": "1642012520",
-    "script": {
-      "scriptId": "60e5efdb99f63a1b5cf6e3e7",
-      "scriptName": "BHARTIARTL"
-    },
-    "type": "SELL",
-    "strikePrice": 873.60
-  },
-  {
-    "signalId": "60e5efdb99f63a1b5cf6e3e8",
-    "section": {
-      "sectionId": "60e5efdb99f63a1b5cf6e3e9",
-      "sectionName": "EQ"
-    },
-    "dateTime": "2023-01-14 11:35:10",
-    "timestamp": "1642119310",
-    "script": {
-      "scriptId": "60e5efdb99f63a1b5cf6e3ea",
-      "scriptName": "SUNPHARMA"
-    },
-    "type": "BUY",
-    "strikePrice": 1049.10
-  },
-  {
-    "signalId": "60e5efdb99f63a1b5cf6e3eb",
-    "section": {
-      "sectionId": "60e5efdb99f63a1b5cf6e3ec",
-      "sectionName": "EQ"
-    },
-    "dateTime": "2023-01-15 14:50:45",
-    "timestamp": "1642222245",
-    "script": {
-      "scriptId": "60e5efdb99f63a1b5cf6e3ed",
-      "scriptName": "CIPLA"
-    },
-    "type": "SELL",
-    "strikePrice": 980.50
-  },
-  {
-    "signalId": "60e5efdb99f63a1b5cf6e3ee",
-    "section": {
-      "sectionId": "60e5efdb99f63a1b5cf6e3ef",
-      "sectionName": "EQ"
-    },
-    "dateTime": "2023-01-16 09:25:30",
-    "timestamp": "1642283730",
-    "script": {
-      "scriptId": "60e5efdb99f63a1b5cf6e3f0",
-      "scriptName": "ASIANPAINT"
-    },
-    "type": "BUY",
-    "strikePrice": 3495.60
-  },
-  {
-    "signalId": "60e5efdb99f63a1b5cf6e3f1",
-    "section": {
-      "sectionId": "60e5efdb99f63a1b5cf6e3f2",
-      "sectionName": "FO"
-    },
-    "dateTime": "2023-01-17 12:40:15",
-    "timestamp": "1642370415",
-    "script": {
-      "scriptId": "60e5efdb99f63a1b5cf6e3f3",
-      "scriptName": "HDFC"
-    },
-    "type": "SELL",
-    "strikePrice": 2850.40
-  },
-  {
-    "signalId": "60e5efdb99f63a1b5cf6e3c4",
-    "section": {
-      "sectionId": "60e5efdb99f63a1b5cf6e3c5",
-      "sectionName": "EQ"
-    },
-    "dateTime": "2023-01-02 09:25:45",
-    "timestamp": "1641096345",
-    "script": {
-      "scriptId": "60e5efdb99f63a1b5cf6e3c6",
-      "scriptName": "HDFCBANK"
-    },
-    "type": "BUY",
-    "strikePrice": 1700.25
-  },
-  {
-    "signalId": "60e5efdb99f63a1b5cf6e3c7",
-    "section": {
-      "sectionId": "60e5efdb99f63a1b5cf6e3c8",
-      "sectionName": "FO"
-    },
-    "dateTime": "2023-01-03 14:10:20",
-    "timestamp": "1641186620",
-    "script": {
-      "scriptId": "60e5efdb99f63a1b5cf6e3c9",
-      "scriptName": "INFY"
-    },
-    "type": "SELL",
-    "strikePrice": 1332.90
-  },
-  {
-    "signalId": "60e5efdb99f63a1b5cf6e3ca",
-    "section": {
-      "sectionId": "60e5efdb99f63a1b5cf6e3cb",
-      "sectionName": "OP"
-    },
-    "dateTime": "2023-01-04 16:35:10",
-    "timestamp": "1641294910",
-    "script": {
-      "scriptId": "60e5efdb99f63a1b5cf6e3cc",
-      "scriptName": "ICICIBANK"
-    },
-    "type": "SELL",
-    "strikePrice": 930.20
-  },
-  {
-    "signalId": "60e5efdb99f63a1b5cf6e3cd",
-    "section": {
-      "sectionId": "60e5efdb99f63a1b5cf6e3ce",
-      "sectionName": "FO"
-    },
-    "dateTime": "2023-01-05 10:45:15",
-    "timestamp": "1641354315",
-    "script": {
-      "scriptId": "60e5efdb99f63a1b5cf6e3cf",
-      "scriptName": "TCS"
-    },
-    "type": "BUY",
-    "strikePrice": 3325.80
-  },
-  {
-    "signalId": "60e5efdb99f63a1b5cf6e3d0",
-    "section": {
-      "sectionId": "60e5efdb99f63a1b5cf6e3d1",
-      "sectionName": "EQ"
-    },
-    "dateTime": "2023-01-06 11:20:50",
-    "timestamp": "1641440450",
-    "script": {
-      "scriptId": "60e5efdb99f63a1b5cf6e3d2",
-      "scriptName": "KOTAKBANK"
-    },
-    "type": "SELL",
-    "strikePrice": 1853.60
-  },
-  {
-    "signalId": "60e5efdb99f63a1b5cf6e3d3",
-    "section": {
-      "sectionId": "60e5efdb99f63a1b5cf6e3d4",
-      "sectionName": "EQ"
-    },
-    "dateTime": "2023-01-07 13:15:40",
-    "timestamp": "1641544540",
-    "script": {
-      "scriptId": "60e5efdb99f63a1b5cf6e3d5",
-      "scriptName": "ITC"
-    },
-    "type": "BUY",
-    "strikePrice": 460.10
-  },
-  {
-    "signalId": "60e5efdb99f63a1b5cf6e3d6",
-    "section": {
-      "sectionId": "60e5efdb99f63a1b5cf6e3d7",
-      "sectionName": "FO"
-    },
-    "dateTime": "2023-01-08 08:55:25",
-    "timestamp": "1641603325",
-    "script": {
-      "scriptId": "60e5efdb99f63a1b5cf6e3d8",
-      "scriptName": "LT"
-    },
-    "type": "BUY",
-    "strikePrice": 2505.40
-  },
-  {
-    "signalId": "60e5efdb99f63a1b5cf6e3d9",
-    "section": {
-      "sectionId": "60e5efdb99f63a1b5cf6e3da",
-      "sectionName": "EQ"
-    },
-    "dateTime": "2023-01-09 14:30:15",
-    "timestamp": "1641701415",
-    "script": {
-      "scriptId": "60e5efdb99f63a1b5cf6e3db",
-      "scriptName": "HINDUNILVR"
-    },
-    "type": "BUY",
-    "strikePrice": 2670.75
-  },
-  {
-    "signalId": "60e5efdb99f63a1b5cf6e3dc",
-    "section": {
-      "sectionId": "60e5efdb99f63a1b5cf6e3dd",
-      "sectionName": "EQ"
-    },
-    "dateTime": "2023-01-10 09:45:50",
-    "timestamp": "1641762350",
-    "script": {
-      "scriptId": "60e5efdb99f63a1b5cf6e3de",
-      "scriptName": "AXISBANK"
-    },
-    "type": "BUY",
-    "strikePrice": 995.90
-  },
-  {
-    "signalId": "60e5efdb99f63a1b5cf6e3df",
-    "section": {
-      "sectionId": "60e5efdb99f63a1b5cf6e3e0",
-      "sectionName": "FO"
-    },
-    "dateTime": "2023-01-11 12:55:30",
-    "timestamp": "1641855330",
-    "script": {
-      "scriptId": "60e5efdb99f63a1b5cf6e3e1",
-      "scriptName": "BAJFINANCE"
-    },
-    "type": "SELL",
-    "strikePrice": 7161.90
-  },
-  {
-    "signalId": "60e5efdb99f63a1b5cf6e3e2",
-    "section": {
-      "sectionId": "60e5efdb99f63a1b5cf6e3e3",
-      "sectionName": "EQ"
-    },
-    "dateTime": "2023-01-12 14:40:55",
-    "timestamp": "1641950455",
-    "script": {
-      "scriptId": "60e5efdb99f63a1b5cf6e3e4",
-      "scriptName": "SBIN"
-    },
-    "type": "BUY",
-    "strikePrice": 586.80
-  },
-  {
-    "signalId": "60e5efdb99f63a1b5cf6e3e5",
-    "section": {
-      "sectionId": "60e5efdb99f63a1b5cf6e3e6",
-      "sectionName": "FO"
-    },
-    "dateTime": "2023-01-13 09:15:20",
-    "timestamp": "1642012520",
-    "script": {
-      "scriptId": "60e5efdb99f63a1b5cf6e3e7",
-      "scriptName": "BHARTIARTL"
-    },
-    "type": "SELL",
-    "strikePrice": 873.60
-  },
-  {
-    "signalId": "60e5efdb99f63a1b5cf6e3e8",
-    "section": {
-      "sectionId": "60e5efdb99f63a1b5cf6e3e9",
-      "sectionName": "EQ"
-    },
-    "dateTime": "2023-01-14 11:35:10",
-    "timestamp": "1642119310",
-    "script": {
-      "scriptId": "60e5efdb99f63a1b5cf6e3ea",
-      "scriptName": "SUNPHARMA"
-    },
-    "type": "BUY",
-    "strikePrice": 1049.10
-  },
-  {
-    "signalId": "60e5efdb99f63a1b5cf6e3eb",
-    "section": {
-      "sectionId": "60e5efdb99f63a1b5cf6e3ec",
-      "sectionName": "EQ"
-    },
-    "dateTime": "2023-01-15 14:50:45",
-    "timestamp": "1642222245",
-    "script": {
-      "scriptId": "60e5efdb99f63a1b5cf6e3ed",
-      "scriptName": "CIPLA"
-    },
-    "type": "SELL",
-    "strikePrice": 980.50
-  },
-  {
-    "signalId": "60e5efdb99f63a1b5cf6e3ee",
-    "section": {
-      "sectionId": "60e5efdb99f63a1b5cf6e3ef",
-      "sectionName": "EQ"
-    },
-    "dateTime": "2023-01-16 09:25:30",
-    "timestamp": "1642283730",
-    "script": {
-      "scriptId": "60e5efdb99f63a1b5cf6e3f0",
-      "scriptName": "ASIANPAINT"
-    },
-    "type": "BUY",
-    "strikePrice": 3495.60
-  },
-  {
-    "signalId": "60e5efdb99f63a1b5cf6e3f1",
-    "section": {
-      "sectionId": "60e5efdb99f63a1b5cf6e3f2",
-      "sectionName": "FO"
-    },
-    "dateTime": "2023-01-17 12:40:15",
-    "timestamp": "1642370415",
-    "script": {
-      "scriptId": "60e5efdb99f63a1b5cf6e3f3",
-      "scriptName": "HDFC"
-    },
-    "type": "SELL",
-    "strikePrice": 2850.40
-  },
-  {
-    "signalId": "60e5efdb99f63a1b5cf6e3f4",
-    "section": {
-      "sectionId": "60e5efdb99f63a1b5cf6e3f5",
-      "sectionName": "EQ"
-    },
-    "dateTime": "2023-01-18 14:55:20",
-    "timestamp": "1642464920",
-    "script": {
-      "scriptId": "60e5efdb99f63a1b5cf6e3f6",
-      "scriptName": "HINDALCO"
-    },
-    "type": "BUY",
-    "strikePrice": 479.80
-  },
-  {
-    "signalId": "60e5efdb99f63a1b5cf6e3f7",
-    "section": {
-      "sectionId": "60e5efdb99f63a1b5cf6e3f8",
-      "sectionName": "EQ"
-    },
-    "dateTime": "2023-01-19 09:30:35",
-    "timestamp": "1642522235",
-    "script": {
-      "scriptId": "60e5efdb99f63a1b5cf6e3f9",
-      "scriptName": "MARUTI"
-    },
-    "type": "SELL",
-    "strikePrice": 6450.75
-  },
-  {
-    "signalId": "60e5efdb99f63a1b5cf6e3fa",
-    "section": {
-      "sectionId": "60e5efdb99f63a1b5cf6e3fb",
-      "sectionName": "EQ"
-    },
-    "dateTime": "2023-01-20 12:45:50",
-    "timestamp": "1642611950",
-    "script": {
-      "scriptId": "60e5efdb99f63a1b5cf6e3fc",
-      "scriptName": "DRREDDY"
-    },
-    "type": "SELL",
-    "strikePrice": 5550.20
-  },
-  {
-    "signalId": "60e5efdb99f63a1b5cf6e3fd",
-    "section": {
-      "sectionId": "60e5efdb99f63a1b5cf6e3fe",
-      "sectionName": "FO"
-    },
-    "dateTime": "2023-01-21 15:50:25",
-    "timestamp": "1642711825",
-    "script": {
-      "scriptId": "60e5efdb99f63a1b5cf6e3ff",
-      "scriptName": "INDUSINDBK"
-    },
-    "type": "SELL",
-    "strikePrice": 1245.90
-  },
-  {
-    "signalId": "60e5efdb99f63a1b5cf6e3dc",
-    "section": {
-      "sectionId": "60e5efdb99f63a1b5cf6e3dd",
-      "sectionName": "EQ"
-    },
-    "dateTime": "2023-01-10 09:45:50",
-    "timestamp": "1641762350",
-    "script": {
-      "scriptId": "60e5efdb99f63a1b5cf6e3de",
-      "scriptName": "AXISBANK"
-    },
-    "type": "BUY",
-    "strikePrice": 995.90
-  },
-  {
-    "signalId": "60e5efdb99f63a1b5cf6e3df",
-    "section": {
-      "sectionId": "60e5efdb99f63a1b5cf6e3e0",
-      "sectionName": "FO"
-    },
-    "dateTime": "2023-01-11 12:55:30",
-    "timestamp": "1641855330",
-    "script": {
-      "scriptId": "60e5efdb99f63a1b5cf6e3e1",
-      "scriptName": "BAJFINANCE"
-    },
-    "type": "SELL",
-    "strikePrice": 7161.90
-  },
-  {
-    "signalId": "60e5efdb99f63a1b5cf6e3e2",
-    "section": {
-      "sectionId": "60e5efdb99f63a1b5cf6e3e3",
-      "sectionName": "EQ"
-    },
-    "dateTime": "2023-01-12 14:40:55",
-    "timestamp": "1641950455",
-    "script": {
-      "scriptId": "60e5efdb99f63a1b5cf6e3e4",
-      "scriptName": "SBIN"
-    },
-    "type": "BUY",
-    "strikePrice": 586.80
-  },
-  {
-    "signalId": "60e5efdb99f63a1b5cf6e3e5",
-    "section": {
-      "sectionId": "60e5efdb99f63a1b5cf6e3e6",
-      "sectionName": "FO"
-    },
-    "dateTime": "2023-01-13 09:15:20",
-    "timestamp": "1642012520",
-    "script": {
-      "scriptId": "60e5efdb99f63a1b5cf6e3e7",
-      "scriptName": "BHARTIARTL"
-    },
-    "type": "SELL",
-    "strikePrice": 873.60
-  },
-  {
-    "signalId": "60e5efdb99f63a1b5cf6e3e8",
-    "section": {
-      "sectionId": "60e5efdb99f63a1b5cf6e3e9",
-      "sectionName": "EQ"
-    },
-    "dateTime": "2023-01-14 11:35:10",
-    "timestamp": "1642119310",
-    "script": {
-      "scriptId": "60e5efdb99f63a1b5cf6e3ea",
-      "scriptName": "SUNPHARMA"
-    },
-    "type": "BUY",
-    "strikePrice": 1049.10
-  },
-  {
-    "signalId": "60e5efdb99f63a1b5cf6e3eb",
-    "section": {
-      "sectionId": "60e5efdb99f63a1b5cf6e3ec",
-      "sectionName": "EQ"
-    },
-    "dateTime": "2023-01-15 14:50:45",
-    "timestamp": "1642222245",
-    "script": {
-      "scriptId": "60e5efdb99f63a1b5cf6e3ed",
-      "scriptName": "CIPLA"
-    },
-    "type": "SELL",
-    "strikePrice": 980.50
-  },
-  {
-    "signalId": "60e5efdb99f63a1b5cf6e3ee",
-    "section": {
-      "sectionId": "60e5efdb99f63a1b5cf6e3ef",
-      "sectionName": "EQ"
-    },
-    "dateTime": "2023-01-16 09:25:30",
-    "timestamp": "1642283730",
-    "script": {
-      "scriptId": "60e5efdb99f63a1b5cf6e3f0",
-      "scriptName": "ASIANPAINT"
-    },
-    "type": "BUY",
-    "strikePrice": 3495.60
-  },
-  {
-    "signalId": "60e5efdb99f63a1b5cf6e3f1",
-    "section": {
-      "sectionId": "60e5efdb99f63a1b5cf6e3f2",
-      "sectionName": "FO"
-    },
-    "dateTime": "2023-01-17 12:40:15",
-    "timestamp": "1642370415",
-    "script": {
-      "scriptId": "60e5efdb99f63a1b5cf6e3f3",
-      "scriptName": "HDFC"
-    },
-    "type": "SELL",
-    "strikePrice": 2850.40
-  },
+   {
+      "signalId":"60e5efdb99f63a1b5cf6e3c1",
+      "section":{
+         "sectionId":"60e5efdb99f63a1b5cf6e3c2",
+         "sectionName":"EQ"
+      },
+      "dateTime":"2023-01-01 12:01:30",
+      "timestamp":"1641028890",
+      "script":{
+         "scriptId":"60e5efdb99f63a1b5cf6e3c3",
+         "scriptName":"RELIANCE"
+      },
+      "type":"SELL",
+      "strikePrice":2545.75
+   },
+   {
+      "signalId":"60e5efdb99f63a1b5cf6e3dc",
+      "section":{
+         "sectionId":"60e5efdb99f63a1b5cf6e3dd",
+         "sectionName":"EQ"
+      },
+      "dateTime":"2023-01-10 09:45:50",
+      "timestamp":"1641762350",
+      "script":{
+         "scriptId":"60e5efdb99f63a1b5cf6e3de",
+         "scriptName":"AXISBANK"
+      },
+      "type":"BUY",
+      "strikePrice":995.90
+   },
+   {
+      "signalId":"60e5efdb99f63a1b5cf6e3df",
+      "section":{
+         "sectionId":"60e5efdb99f63a1b5cf6e3e0",
+         "sectionName":"FO"
+      },
+      "dateTime":"2023-01-11 12:55:30",
+      "timestamp":"1641855330",
+      "script":{
+         "scriptId":"60e5efdb99f63a1b5cf6e3e1",
+         "scriptName":"BAJFINANCE"
+      },
+      "type":"SELL",
+      "strikePrice":7161.90
+   },
+   {
+      "signalId":"60e5efdb99f63a1b5cf6e3e2",
+      "section":{
+         "sectionId":"60e5efdb99f63a1b5cf6e3e3",
+         "sectionName":"EQ"
+      },
+      "dateTime":"2023-01-12 14:40:55",
+      "timestamp":"1641950455",
+      "script":{
+         "scriptId":"60e5efdb99f63a1b5cf6e3e4",
+         "scriptName":"SBIN"
+      },
+      "type":"BUY",
+      "strikePrice":586.80
+   },
+   {
+      "signalId":"60e5efdb99f63a1b5cf6e3e5",
+      "section":{
+         "sectionId":"60e5efdb99f63a1b5cf6e3e6",
+         "sectionName":"FO"
+      },
+      "dateTime":"2023-01-13 09:15:20",
+      "timestamp":"1642012520",
+      "script":{
+         "scriptId":"60e5efdb99f63a1b5cf6e3e7",
+         "scriptName":"BHARTIARTL"
+      },
+      "type":"SELL",
+      "strikePrice":873.60
+   },
+   {
+      "signalId":"60e5efdb99f63a1b5cf6e3e8",
+      "section":{
+         "sectionId":"60e5efdb99f63a1b5cf6e3e9",
+         "sectionName":"EQ"
+      },
+      "dateTime":"2023-01-14 11:35:10",
+      "timestamp":"1642119310",
+      "script":{
+         "scriptId":"60e5efdb99f63a1b5cf6e3ea",
+         "scriptName":"SUNPHARMA"
+      },
+      "type":"BUY",
+      "strikePrice":1049.10
+   },
+   {
+      "signalId":"60e5efdb99f63a1b5cf6e3eb",
+      "section":{
+         "sectionId":"60e5efdb99f63a1b5cf6e3ec",
+         "sectionName":"EQ"
+      },
+      "dateTime":"2023-01-15 14:50:45",
+      "timestamp":"1642222245",
+      "script":{
+         "scriptId":"60e5efdb99f63a1b5cf6e3ed",
+         "scriptName":"CIPLA"
+      },
+      "type":"SELL",
+      "strikePrice":980.50
+   },
+   {
+      "signalId":"60e5efdb99f63a1b5cf6e3ee",
+      "section":{
+         "sectionId":"60e5efdb99f63a1b5cf6e3ef",
+         "sectionName":"EQ"
+      },
+      "dateTime":"2023-01-16 09:25:30",
+      "timestamp":"1642283730",
+      "script":{
+         "scriptId":"60e5efdb99f63a1b5cf6e3f0",
+         "scriptName":"ASIANPAINT"
+      },
+      "type":"BUY",
+      "strikePrice":3495.60
+   },
+   {
+      "signalId":"60e5efdb99f63a1b5cf6e3f1",
+      "section":{
+         "sectionId":"60e5efdb99f63a1b5cf6e3f2",
+         "sectionName":"FO"
+      },
+      "dateTime":"2023-01-17 12:40:15",
+      "timestamp":"1642370415",
+      "script":{
+         "scriptId":"60e5efdb99f63a1b5cf6e3f3",
+         "scriptName":"HDFC"
+      },
+      "type":"SELL",
+      "strikePrice":2850.40
+   },
+   {
+      "signalId":"60e5efdb99f63a1b5cf6e3c4",
+      "section":{
+         "sectionId":"60e5efdb99f63a1b5cf6e3c5",
+         "sectionName":"EQ"
+      },
+      "dateTime":"2023-01-02 09:25:45",
+      "timestamp":"1641096345",
+      "script":{
+         "scriptId":"60e5efdb99f63a1b5cf6e3c6",
+         "scriptName":"HDFCBANK"
+      },
+      "type":"BUY",
+      "strikePrice":1700.25
+   },
+   {
+      "signalId":"60e5efdb99f63a1b5cf6e3c7",
+      "section":{
+         "sectionId":"60e5efdb99f63a1b5cf6e3c8",
+         "sectionName":"FO"
+      },
+      "dateTime":"2023-01-03 14:10:20",
+      "timestamp":"1641186620",
+      "script":{
+         "scriptId":"60e5efdb99f63a1b5cf6e3c9",
+         "scriptName":"INFY"
+      },
+      "type":"SELL",
+      "strikePrice":1332.90
+   },
+   {
+      "signalId":"60e5efdb99f63a1b5cf6e3ca",
+      "section":{
+         "sectionId":"60e5efdb99f63a1b5cf6e3cb",
+         "sectionName":"OP"
+      },
+      "dateTime":"2023-01-04 16:35:10",
+      "timestamp":"1641294910",
+      "script":{
+         "scriptId":"60e5efdb99f63a1b5cf6e3cc",
+         "scriptName":"ICICIBANK"
+      },
+      "type":"SELL",
+      "strikePrice":930.20
+   },
+   {
+      "signalId":"60e5efdb99f63a1b5cf6e3cd",
+      "section":{
+         "sectionId":"60e5efdb99f63a1b5cf6e3ce",
+         "sectionName":"FO"
+      },
+      "dateTime":"2023-01-05 10:45:15",
+      "timestamp":"1641354315",
+      "script":{
+         "scriptId":"60e5efdb99f63a1b5cf6e3cf",
+         "scriptName":"TCS"
+      },
+      "type":"BUY",
+      "strikePrice":3325.80
+   },
+   {
+      "signalId":"60e5efdb99f63a1b5cf6e3d0",
+      "section":{
+         "sectionId":"60e5efdb99f63a1b5cf6e3d1",
+         "sectionName":"EQ"
+      },
+      "dateTime":"2023-01-06 11:20:50",
+      "timestamp":"1641440450",
+      "script":{
+         "scriptId":"60e5efdb99f63a1b5cf6e3d2",
+         "scriptName":"KOTAKBANK"
+      },
+      "type":"SELL",
+      "strikePrice":1853.60
+   },
+   {
+      "signalId":"60e5efdb99f63a1b5cf6e3d3",
+      "section":{
+         "sectionId":"60e5efdb99f63a1b5cf6e3d4",
+         "sectionName":"EQ"
+      },
+      "dateTime":"2023-01-07 13:15:40",
+      "timestamp":"1641544540",
+      "script":{
+         "scriptId":"60e5efdb99f63a1b5cf6e3d5",
+         "scriptName":"ITC"
+      },
+      "type":"BUY",
+      "strikePrice":460.10
+   },
+   {
+      "signalId":"60e5efdb99f63a1b5cf6e3d6",
+      "section":{
+         "sectionId":"60e5efdb99f63a1b5cf6e3d7",
+         "sectionName":"FO"
+      },
+      "dateTime":"2023-01-08 08:55:25",
+      "timestamp":"1641603325",
+      "script":{
+         "scriptId":"60e5efdb99f63a1b5cf6e3d8",
+         "scriptName":"LT"
+      },
+      "type":"BUY",
+      "strikePrice":2505.40
+   },
+   {
+      "signalId":"60e5efdb99f63a1b5cf6e3d9",
+      "section":{
+         "sectionId":"60e5efdb99f63a1b5cf6e3da",
+         "sectionName":"EQ"
+      },
+      "dateTime":"2023-01-09 14:30:15",
+      "timestamp":"1641701415",
+      "script":{
+         "scriptId":"60e5efdb99f63a1b5cf6e3db",
+         "scriptName":"HINDUNILVR"
+      },
+      "type":"BUY",
+      "strikePrice":2670.75
+   },
+   {
+      "signalId":"60e5efdb99f63a1b5cf6e3dc",
+      "section":{
+         "sectionId":"60e5efdb99f63a1b5cf6e3dd",
+         "sectionName":"EQ"
+      },
+      "dateTime":"2023-01-10 09:45:50",
+      "timestamp":"1641762350",
+      "script":{
+         "scriptId":"60e5efdb99f63a1b5cf6e3de",
+         "scriptName":"AXISBANK"
+      },
+      "type":"BUY",
+      "strikePrice":995.90
+   },
+   {
+      "signalId":"60e5efdb99f63a1b5cf6e3df",
+      "section":{
+         "sectionId":"60e5efdb99f63a1b5cf6e3e0",
+         "sectionName":"FO"
+      },
+      "dateTime":"2023-01-11 12:55:30",
+      "timestamp":"1641855330",
+      "script":{
+         "scriptId":"60e5efdb99f63a1b5cf6e3e1",
+         "scriptName":"BAJFINANCE"
+      },
+      "type":"SELL",
+      "strikePrice":7161.90
+   },
+   {
+      "signalId":"60e5efdb99f63a1b5cf6e3e2",
+      "section":{
+         "sectionId":"60e5efdb99f63a1b5cf6e3e3",
+         "sectionName":"EQ"
+      },
+      "dateTime":"2023-01-12 14:40:55",
+      "timestamp":"1641950455",
+      "script":{
+         "scriptId":"60e5efdb99f63a1b5cf6e3e4",
+         "scriptName":"SBIN"
+      },
+      "type":"BUY",
+      "strikePrice":586.80
+   },
+   {
+      "signalId":"60e5efdb99f63a1b5cf6e3e5",
+      "section":{
+         "sectionId":"60e5efdb99f63a1b5cf6e3e6",
+         "sectionName":"FO"
+      },
+      "dateTime":"2023-01-13 09:15:20",
+      "timestamp":"1642012520",
+      "script":{
+         "scriptId":"60e5efdb99f63a1b5cf6e3e7",
+         "scriptName":"BHARTIARTL"
+      },
+      "type":"SELL",
+      "strikePrice":873.60
+   },
+   {
+      "signalId":"60e5efdb99f63a1b5cf6e3e8",
+      "section":{
+         "sectionId":"60e5efdb99f63a1b5cf6e3e9",
+         "sectionName":"EQ"
+      },
+      "dateTime":"2023-01-14 11:35:10",
+      "timestamp":"1642119310",
+      "script":{
+         "scriptId":"60e5efdb99f63a1b5cf6e3ea",
+         "scriptName":"SUNPHARMA"
+      },
+      "type":"BUY",
+      "strikePrice":1049.10
+   },
+   {
+      "signalId":"60e5efdb99f63a1b5cf6e3eb",
+      "section":{
+         "sectionId":"60e5efdb99f63a1b5cf6e3ec",
+         "sectionName":"EQ"
+      },
+      "dateTime":"2023-01-15 14:50:45",
+      "timestamp":"1642222245",
+      "script":{
+         "scriptId":"60e5efdb99f63a1b5cf6e3ed",
+         "scriptName":"CIPLA"
+      },
+      "type":"SELL",
+      "strikePrice":980.50
+   },
+   {
+      "signalId":"60e5efdb99f63a1b5cf6e3ee",
+      "section":{
+         "sectionId":"60e5efdb99f63a1b5cf6e3ef",
+         "sectionName":"EQ"
+      },
+      "dateTime":"2023-01-16 09:25:30",
+      "timestamp":"1642283730",
+      "script":{
+         "scriptId":"60e5efdb99f63a1b5cf6e3f0",
+         "scriptName":"ASIANPAINT"
+      },
+      "type":"BUY",
+      "strikePrice":3495.60
+   },
+   {
+      "signalId":"60e5efdb99f63a1b5cf6e3f1",
+      "section":{
+         "sectionId":"60e5efdb99f63a1b5cf6e3f2",
+         "sectionName":"FO"
+      },
+      "dateTime":"2023-01-17 12:40:15",
+      "timestamp":"1642370415",
+      "script":{
+         "scriptId":"60e5efdb99f63a1b5cf6e3f3",
+         "scriptName":"HDFC"
+      },
+      "type":"SELL",
+      "strikePrice":2850.40
+   },
+   {
+      "signalId":"60e5efdb99f63a1b5cf6e3f4",
+      "section":{
+         "sectionId":"60e5efdb99f63a1b5cf6e3f5",
+         "sectionName":"EQ"
+      },
+      "dateTime":"2023-01-18 14:55:20",
+      "timestamp":"1642464920",
+      "script":{
+         "scriptId":"60e5efdb99f63a1b5cf6e3f6",
+         "scriptName":"HINDALCO"
+      },
+      "type":"BUY",
+      "strikePrice":479.80
+   },
+   {
+      "signalId":"60e5efdb99f63a1b5cf6e3f7",
+      "section":{
+         "sectionId":"60e5efdb99f63a1b5cf6e3f8",
+         "sectionName":"EQ"
+      },
+      "dateTime":"2023-01-19 09:30:35",
+      "timestamp":"1642522235",
+      "script":{
+         "scriptId":"60e5efdb99f63a1b5cf6e3f9",
+         "scriptName":"MARUTI"
+      },
+      "type":"SELL",
+      "strikePrice":6450.75
+   },
+   {
+      "signalId":"60e5efdb99f63a1b5cf6e3fa",
+      "section":{
+         "sectionId":"60e5efdb99f63a1b5cf6e3fb",
+         "sectionName":"EQ"
+      },
+      "dateTime":"2023-01-20 12:45:50",
+      "timestamp":"1642611950",
+      "script":{
+         "scriptId":"60e5efdb99f63a1b5cf6e3fc",
+         "scriptName":"DRREDDY"
+      },
+      "type":"SELL",
+      "strikePrice":5550.20
+   },
+   {
+      "signalId":"60e5efdb99f63a1b5cf6e3fd",
+      "section":{
+         "sectionId":"60e5efdb99f63a1b5cf6e3fe",
+         "sectionName":"FO"
+      },
+      "dateTime":"2023-01-21 15:50:25",
+      "timestamp":"1642711825",
+      "script":{
+         "scriptId":"60e5efdb99f63a1b5cf6e3ff",
+         "scriptName":"INDUSINDBK"
+      },
+      "type":"SELL",
+      "strikePrice":1245.90
+   },
+   {
+      "signalId":"60e5efdb99f63a1b5cf6e3dc",
+      "section":{
+         "sectionId":"60e5efdb99f63a1b5cf6e3dd",
+         "sectionName":"EQ"
+      },
+      "dateTime":"2023-01-10 09:45:50",
+      "timestamp":"1641762350",
+      "script":{
+         "scriptId":"60e5efdb99f63a1b5cf6e3de",
+         "scriptName":"AXISBANK"
+      },
+      "type":"BUY",
+      "strikePrice":995.90
+   },
+   {
+      "signalId":"60e5efdb99f63a1b5cf6e3df",
+      "section":{
+         "sectionId":"60e5efdb99f63a1b5cf6e3e0",
+         "sectionName":"FO"
+      },
+      "dateTime":"2023-01-11 12:55:30",
+      "timestamp":"1641855330",
+      "script":{
+         "scriptId":"60e5efdb99f63a1b5cf6e3e1",
+         "scriptName":"BAJFINANCE"
+      },
+      "type":"SELL",
+      "strikePrice":7161.90
+   },
+   {
+      "signalId":"60e5efdb99f63a1b5cf6e3e2",
+      "section":{
+         "sectionId":"60e5efdb99f63a1b5cf6e3e3",
+         "sectionName":"EQ"
+      },
+      "dateTime":"2023-01-12 14:40:55",
+      "timestamp":"1641950455",
+      "script":{
+         "scriptId":"60e5efdb99f63a1b5cf6e3e4",
+         "scriptName":"SBIN"
+      },
+      "type":"BUY",
+      "strikePrice":586.80
+   },
+   {
+      "signalId":"60e5efdb99f63a1b5cf6e3e5",
+      "section":{
+         "sectionId":"60e5efdb99f63a1b5cf6e3e6",
+         "sectionName":"FO"
+      },
+      "dateTime":"2023-01-13 09:15:20",
+      "timestamp":"1642012520",
+      "script":{
+         "scriptId":"60e5efdb99f63a1b5cf6e3e7",
+         "scriptName":"BHARTIARTL"
+      },
+      "type":"SELL",
+      "strikePrice":873.60
+   },
+   {
+      "signalId":"60e5efdb99f63a1b5cf6e3e8",
+      "section":{
+         "sectionId":"60e5efdb99f63a1b5cf6e3e9",
+         "sectionName":"EQ"
+      },
+      "dateTime":"2023-01-14 11:35:10",
+      "timestamp":"1642119310",
+      "script":{
+         "scriptId":"60e5efdb99f63a1b5cf6e3ea",
+         "scriptName":"SUNPHARMA"
+      },
+      "type":"BUY",
+      "strikePrice":1049.10
+   },
+   {
+      "signalId":"60e5efdb99f63a1b5cf6e3eb",
+      "section":{
+         "sectionId":"60e5efdb99f63a1b5cf6e3ec",
+         "sectionName":"EQ"
+      },
+      "dateTime":"2023-01-15 14:50:45",
+      "timestamp":"1642222245",
+      "script":{
+         "scriptId":"60e5efdb99f63a1b5cf6e3ed",
+         "scriptName":"CIPLA"
+      },
+      "type":"SELL",
+      "strikePrice":980.50
+   },
+   {
+      "signalId":"60e5efdb99f63a1b5cf6e3ee",
+      "section":{
+         "sectionId":"60e5efdb99f63a1b5cf6e3ef",
+         "sectionName":"EQ"
+      },
+      "dateTime":"2023-01-16 09:25:30",
+      "timestamp":"1642283730",
+      "script":{
+         "scriptId":"60e5efdb99f63a1b5cf6e3f0",
+         "scriptName":"ASIANPAINT"
+      },
+      "type":"BUY",
+      "strikePrice":3495.60
+   },
+   {
+      "signalId":"60e5efdb99f63a1b5cf6e3f1",
+      "section":{
+         "sectionId":"60e5efdb99f63a1b5cf6e3f2",
+         "sectionName":"FO"
+      },
+      "dateTime":"2023-01-17 12:40:15",
+      "timestamp":"1642370415",
+      "script":{
+         "scriptId":"60e5efdb99f63a1b5cf6e3f3",
+         "scriptName":"HDFC"
+      },
+      "type":"SELL",
+      "strikePrice":2850.40
+   }
 ]
