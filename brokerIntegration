@@ -1,0 +1,56 @@
+[
+   {
+      "title":"5paisa",
+      "logo":"/images/logos/5paisa.png",
+      "lastUsedDate":"15/05/2023",
+      "subtitle":"Calendar and Contacts"
+   },
+   {
+      "title":"AngleOne",
+      "logo":"/images/logos/AngleOne.png",
+      "lastUsedDate":"15/05/2023",
+      "subtitle":"Communications"
+   },
+   {
+      "title":"Icici",
+      "logo":"/images/logos/Icici.png",
+      "lastUsedDate":"15/05/2023",
+      "subtitle":"Manage your Git repositories"
+   },
+   {
+      "title":"Upstox",
+      "subtitle":"Email marketing service",
+      "lastUsedDate":"15/05/2023",
+      "logo":"/images/logos/Upstox.png"
+   },
+   {
+      "title":"IIFL",
+      "subtitle":"Email marketing service",
+      "lastUsedDate":"15/05/2023",
+      "logo":"/images/logos/IIFL.png"
+   },
+   {
+      "title":"Zerodha",
+      "subtitle":"Communication",
+      "lastUsedDate":"15/05/2023",
+      "logo":"/images/logos/zerodha.png"
+   },
+   {
+      "title":"Motilal Oswal",
+      "subtitle":"Communication",
+      "lastUsedDate":"15/05/2023",
+      "logo":"/images/logos/motilal.png"
+   },
+   {
+      "title":"HDFC",
+      "subtitle":"Communication",
+      "lastUsedDate":"15/05/2023",
+      "logo":"/images/logos/HDFC.png"
+   },
+   {
+      "title":"Grow",
+      "subtitle":"Communication",
+      "lastUsedDate":"15/05/2023",
+      "logo":"/images/logos/Grow.png"
+   }
+]BrokerIntegration
