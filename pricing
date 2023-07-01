@@ -11,7 +11,8 @@
       "imgSrc": "/images/pages/pricing-illustration-1.png",
       "semiAnnualPlan": {
         "perMonth": "₹95",
-        "totalSemiAnnual": "₹570"
+        "totalSemiAnnual": "₹570",
+        "totatAnnual": "₹1140"
       },
       "annualPlan": {
         "perMonth": "₹90",
@@ -36,7 +37,8 @@
       "imgSrc": "/images/pages/pricing-illustration-2.png",
       "semiAnnualPlan": {
         "perMonth": "₹190",
-        "totalSemiAnnual": "₹1140"
+        "totalSemiAnnual": "₹1140",
+        "totatAnnual": "₹2280"
       },
       "annualPlan": {
         "perMonth": "₹180",
@@ -61,7 +63,8 @@
       "imgSrc": "/images/pages/pricing-illustration-3.png",
       "semiAnnualPlan": {
         "perMonth": "₹285",
-        "totalSemiAnnual": "₹1710"
+        "totalSemiAnnual": "₹1710",
+        "totatAnnual": "₹3420"
       },
       "annualPlan": {
         "perMonth": "₹270",
