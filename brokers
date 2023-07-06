@@ -1,0 +1,56 @@
+[
+  {
+    "brokerId": "60e71c482f068d4428e0c2e1",
+    "brokerName": "5Paisa",
+    "logo": "/images/logos/5paisa.png",
+    "status": "CONNECTED"
+  },
+  {
+    "brokerId": "60e71c482f068d4428e0c2e2",
+    "brokerName": "AngleOne",
+    "logo": "/images/logos/AngleOne.png",
+    "status": "AVAILABLE"
+  },
+  {
+    "brokerId": "60e71c482f068d4428e0c2e3",
+    "brokerName": "ICICI Direct",
+    "logo": "/images/logos/Icici.png",
+    "status": "CONNECTED"
+  },
+  {
+    "brokerId": "60e71c482f068d4428e0c2e4",
+    "brokerName": "Upstox",
+    "logo": "/images/logos/Upstox.png",
+    "status": "COMING SOON"
+  },
+  {
+    "brokerId": "60e71c482f068d4428e0c2e5",
+    "brokerName": "IIFL",
+    "logo": "/images/logos/IIFL.png",
+    "status": "CONNECTED"
+  },
+  {
+    "brokerId": "60e71c482f068d4428e0c2e6",
+    "brokerName": "Zerodha",
+    "logo": "/images/logos/zerodha.png",
+    "status": "COMING SOON"
+  },
+  {
+    "brokerId": "60e71c482f068d4428e0c2e7",
+    "brokerName": "Motilal Oswal",
+    "logo": "/images/logos/motilal.png",
+    "status": "CONNECTED"
+  },
+  {
+    "brokerId": "60e71c482f068d4428e0c2e8",
+    "brokerName": "HDFC",
+    "logo": "/images/logos/HDFC.png",
+    "status": "UNAVAILABLE"
+  },
+  {
+    "brokerId": "60e71c482f068d4428e0c2e9",
+    "brokerName": "Grow",
+    "logo": "/images/logos/Grow.png",
+    "status": "CONNECTED"
+  }
+]
