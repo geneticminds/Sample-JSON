@@ -5,6 +5,10 @@
       "sectionId": "60e5efdb99f63a1b5cf6e3c2",
       "sectionName": "EQ"
     },
+    "strategy": {
+      "strategyId": "60e5efdb99f63a1b5cf6e3c2",
+      "strategyName": "EQ_VOLUME_SHOCKERS"
+    },
     "dateTime": "2023-01-01 12:01:30",
     "timestamp": "1641028890",
     "script": {
@@ -19,6 +23,10 @@
     "section": {
       "sectionId": "60e5efdb99f63a1b5cf6e3dd",
       "sectionName": "EQ"
+    },
+    "strategy": {
+      "strategyId": "60e5efdb99f63a1b5cf6e3c2",
+      "strategyName": "EQ_PRICE_SHOCKERS"
     },
     "dateTime": "2023-01-10 09:45:50",
     "timestamp": "1641762350",
@@ -35,6 +43,10 @@
       "sectionId": "60e5efdb99f63a1b5cf6e3e0",
       "sectionName": "FO"
     },
+    "strategy": {
+      "strategyId": "60e5efdb99f63a1b5cf6e3c2",
+      "strategyName": "EQ_VOLUME_SHOCKERS"
+    },
     "dateTime": "2023-01-11 12:55:30",
     "timestamp": "1641855330",
     "script": {
@@ -49,6 +61,10 @@
     "section": {
       "sectionId": "60e5efdb99f63a1b5cf6e3e3",
       "sectionName": "EQ"
+    },
+    "strategy": {
+      "strategyId": "60e5efdb99f63a1b5cf6e3c2",
+      "strategyName": "EQ_VOLUME_SHOCKERS"
     },
     "dateTime": "2023-01-12 14:40:55",
     "timestamp": "1641950455",
@@ -65,6 +81,10 @@
       "sectionId": "60e5efdb99f63a1b5cf6e3e6",
       "sectionName": "FO"
     },
+    "strategy": {
+      "strategyId": "60e5efdb99f63a1b5cf6e3c2",
+      "strategyName": "EQ_VOLUME_SHOCKERS"
+    },
     "dateTime": "2023-01-13 09:15:20",
     "timestamp": "1642012520",
     "script": {
@@ -79,6 +99,10 @@
     "section": {
       "sectionId": "60e5efdb99f63a1b5cf6e3e9",
       "sectionName": "EQ"
+    },
+    "strategy": {
+      "strategyId": "60e5efdb99f63a1b5cf6e3c2",
+      "strategyName": "EQ_52_WEEK_HIGH"
     },
     "dateTime": "2023-01-14 11:35:10",
     "timestamp": "1642119310",
@@ -95,6 +119,10 @@
       "sectionId": "60e5efdb99f63a1b5cf6e3ec",
       "sectionName": "EQ"
     },
+    "strategy": {
+      "strategyId": "60e5efdb99f63a1b5cf6e3c2",
+      "strategyName": "EQ_52_WEEK_LOW"
+    },
     "dateTime": "2023-01-15 14:50:45",
     "timestamp": "1642222245",
     "script": {
@@ -110,6 +138,10 @@
       "sectionId": "60e5efdb99f63a1b5cf6e3ef",
       "sectionName": "EQ"
     },
+    "strategy": {
+      "strategyId": "60e5efdb99f63a1b5cf6e3c2",
+      "strategyName": "EQ_52_WEEK_HIGH"
+    },
     "dateTime": "2023-01-16 09:25:30",
     "timestamp": "1642283730",
     "script": {
@@ -124,6 +156,10 @@
     "section": {
       "sectionId": "60e5efdb99f63a1b5cf6e3f2",
       "sectionName": "FO"
+    },
+    "strategy": {
+      "strategyId": "60e5efdb99f63a1b5cf6e3c2",
+      "strategyName": "EQ_52_WEEK_HIGH"
     },
     "dateTime": "2023-01-17 12:40:15",
     "timestamp": "1642370415",
@@ -140,6 +176,10 @@
       "sectionId": "60e5efdb99f63a1b5cf6e3c5",
       "sectionName": "EQ"
     },
+    "strategy": {
+      "strategyId": "60e5efdb99f63a1b5cf6e3c2",
+      "strategyName": "EQ_52_WEEK_LOW"
+    },
     "dateTime": "2023-01-02 09:25:45",
     "timestamp": "1641096345",
     "script": {
@@ -154,6 +194,10 @@
     "section": {
       "sectionId": "60e5efdb99f63a1b5cf6e3c8",
       "sectionName": "FO"
+    },
+    "strategy": {
+      "strategyId": "60e5efdb99f63a1b5cf6e3c2",
+      "strategyName": "EQ_VOLUME_SHOCKERS"
     },
     "dateTime": "2023-01-03 14:10:20",
     "timestamp": "1641186620",
@@ -170,6 +214,10 @@
       "sectionId": "60e5efdb99f63a1b5cf6e3cb",
       "sectionName": "OP"
     },
+    "strategy": {
+      "strategyId": "60e5efdb99f63a1b5cf6e3c2",
+      "strategyName": "EQ_52_WEEK_LOW"
+    },
     "dateTime": "2023-01-04 16:35:10",
     "timestamp": "1641294910",
     "script": {
@@ -184,6 +232,10 @@
     "section": {
       "sectionId": "60e5efdb99f63a1b5cf6e3ce",
       "sectionName": "FO"
+    },
+    "strategy": {
+      "strategyId": "60e5efdb99f63a1b5cf6e3c2",
+      "strategyName": "EQ_VOLUME_SHOCKERS"
     },
     "dateTime": "2023-01-05 10:45:15",
     "timestamp": "1641354315",
@@ -200,6 +252,10 @@
       "sectionId": "60e5efdb99f63a1b5cf6e3d1",
       "sectionName": "EQ"
     },
+    "strategy": {
+      "strategyId": "60e5efdb99f63a1b5cf6e3c2",
+      "strategyName": "EQ_52_WEEK_HIGH"
+    },
     "dateTime": "2023-01-06 11:20:50",
     "timestamp": "1641440450",
     "script": {
@@ -214,6 +270,10 @@
     "section": {
       "sectionId": "60e5efdb99f63a1b5cf6e3d4",
       "sectionName": "EQ"
+    },
+    "strategy": {
+      "strategyId": "60e5efdb99f63a1b5cf6e3c2",
+      "strategyName": "EQ_52_WEEK_LOW"
     },
     "dateTime": "2023-01-07 13:15:40",
     "timestamp": "1641544540",
@@ -230,6 +290,10 @@
       "sectionId": "60e5efdb99f63a1b5cf6e3d7",
       "sectionName": "FO"
     },
+    "strategy": {
+      "strategyId": "60e5efdb99f63a1b5cf6e3c2",
+      "strategyName": "EQ_PRICE_SHOCKERS"
+    },
     "dateTime": "2023-01-08 08:55:25",
     "timestamp": "1641603325",
     "script": {
@@ -244,6 +308,10 @@
     "section": {
       "sectionId": "60e5efdb99f63a1b5cf6e3da",
       "sectionName": "EQ"
+    },
+    "strategy": {
+      "strategyId": "60e5efdb99f63a1b5cf6e3c2",
+      "strategyName": "EQ_52_WEEK_HIGH"
     },
     "dateTime": "2023-01-09 14:30:15",
     "timestamp": "1641701415",
@@ -260,6 +328,10 @@
       "sectionId": "60e5efdb99f63a1b5cf6e3dd",
       "sectionName": "EQ"
     },
+    "strategy": {
+      "strategyId": "60e5efdb99f63a1b5cf6e3c2",
+      "strategyName": "EQ_VOLUME_SHOCKERS"
+    },
     "dateTime": "2023-01-10 09:45:50",
     "timestamp": "1641762350",
     "script": {
@@ -274,6 +346,10 @@
     "section": {
       "sectionId": "60e5efdb99f63a1b5cf6e3e0",
       "sectionName": "FO"
+    },
+    "strategy": {
+      "strategyId": "60e5efdb99f63a1b5cf6e3c2",
+      "strategyName": "EQ_52_WEEK_HIGH"
     },
     "dateTime": "2023-01-11 12:55:30",
     "timestamp": "1641855330",
@@ -290,6 +366,10 @@
       "sectionId": "60e5efdb99f63a1b5cf6e3e3",
       "sectionName": "EQ"
     },
+    "strategy": {
+      "strategyId": "60e5efdb99f63a1b5cf6e3c2",
+      "strategyName": "EQ_52_WEEK_HIGH"
+    },
     "dateTime": "2023-01-12 14:40:55",
     "timestamp": "1641950455",
     "script": {
@@ -304,6 +384,10 @@
     "section": {
       "sectionId": "60e5efdb99f63a1b5cf6e3e6",
       "sectionName": "FO"
+    },
+    "strategy": {
+      "strategyId": "60e5efdb99f63a1b5cf6e3c2",
+      "strategyName": "EQ_PRICE_SHOCKERS"
     },
     "dateTime": "2023-01-13 09:15:20",
     "timestamp": "1642012520",
@@ -320,6 +404,10 @@
       "sectionId": "60e5efdb99f63a1b5cf6e3e9",
       "sectionName": "EQ"
     },
+    "strategy": {
+      "strategyId": "60e5efdb99f63a1b5cf6e3c2",
+      "strategyName": "EQ_52_WEEK_HIGH"
+    },
     "dateTime": "2023-01-14 11:35:10",
     "timestamp": "1642119310",
     "script": {
@@ -334,6 +422,10 @@
     "section": {
       "sectionId": "60e5efdb99f63a1b5cf6e3ec",
       "sectionName": "EQ"
+    },
+    "strategy": {
+      "strategyId": "60e5efdb99f63a1b5cf6e3c2",
+      "strategyName": "EQ_52_WEEK_HIGH"
     },
     "dateTime": "2023-01-15 14:50:45",
     "timestamp": "1642222245",
@@ -350,6 +442,10 @@
       "sectionId": "60e5efdb99f63a1b5cf6e3ef",
       "sectionName": "EQ"
     },
+    "strategy": {
+      "strategyId": "60e5efdb99f63a1b5cf6e3c2",
+      "strategyName": "EQ_52_WEEK_LOW"
+    },
     "dateTime": "2023-01-16 09:25:30",
     "timestamp": "1642283730",
     "script": {
@@ -364,6 +460,10 @@
     "section": {
       "sectionId": "60e5efdb99f63a1b5cf6e3f2",
       "sectionName": "FO"
+    },
+    "strategy": {
+      "strategyId": "60e5efdb99f63a1b5cf6e3c2",
+      "strategyName": "EQ_PRICE_SHOCKERS"
     },
     "dateTime": "2023-01-17 12:40:15",
     "timestamp": "1642370415",
@@ -380,6 +480,10 @@
       "sectionId": "60e5efdb99f63a1b5cf6e3f5",
       "sectionName": "EQ"
     },
+    "strategy": {
+      "strategyId": "60e5efdb99f63a1b5cf6e3c2",
+      "strategyName": "EQ_VOLUME_SHOCKERS"
+    },
     "dateTime": "2023-01-18 14:55:20",
     "timestamp": "1642464920",
     "script": {
@@ -394,6 +498,10 @@
     "section": {
       "sectionId": "60e5efdb99f63a1b5cf6e3f8",
       "sectionName": "EQ"
+    },
+    "strategy": {
+      "strategyId": "60e5efdb99f63a1b5cf6e3c2",
+      "strategyName": "EQ_52_WEEK_LOW"
     },
     "dateTime": "2023-01-19 09:30:35",
     "timestamp": "1642522235",
@@ -410,6 +518,10 @@
       "sectionId": "60e5efdb99f63a1b5cf6e3fb",
       "sectionName": "EQ"
     },
+    "strategy": {
+      "strategyId": "60e5efdb99f63a1b5cf6e3c2",
+      "strategyName": "EQ_VOLUME_SHOCKERS"
+    },
     "dateTime": "2023-01-20 12:45:50",
     "timestamp": "1642611950",
     "script": {
@@ -424,6 +536,10 @@
     "section": {
       "sectionId": "60e5efdb99f63a1b5cf6e3fe",
       "sectionName": "FO"
+    },
+    "strategy": {
+      "strategyId": "60e5efdb99f63a1b5cf6e3c2",
+      "strategyName": "EQ_PRICE_SHOCKERS"
     },
     "dateTime": "2023-01-21 15:50:25",
     "timestamp": "1642711825",
@@ -440,6 +556,10 @@
       "sectionId": "60e5efdb99f63a1b5cf6e3dd",
       "sectionName": "EQ"
     },
+    "strategy": {
+      "strategyId": "60e5efdb99f63a1b5cf6e3c2",
+      "strategyName": "EQ_52_WEEK_HIGH"
+    },
     "dateTime": "2023-01-10 09:45:50",
     "timestamp": "1641762350",
     "script": {
@@ -454,6 +574,10 @@
     "section": {
       "sectionId": "60e5efdb99f63a1b5cf6e3e0",
       "sectionName": "FO"
+    },
+    "strategy": {
+      "strategyId": "60e5efdb99f63a1b5cf6e3c2",
+      "strategyName": "EQ_52_WEEK_HIGH"
     },
     "dateTime": "2023-01-11 12:55:30",
     "timestamp": "1641855330",
@@ -470,6 +594,10 @@
       "sectionId": "60e5efdb99f63a1b5cf6e3e3",
       "sectionName": "EQ"
     },
+    "strategy": {
+      "strategyId": "60e5efdb99f63a1b5cf6e3c2",
+      "strategyName": "EQ_52_WEEK_LOW"
+    },
     "dateTime": "2023-01-12 14:40:55",
     "timestamp": "1641950455",
     "script": {
@@ -484,6 +612,10 @@
     "section": {
       "sectionId": "60e5efdb99f63a1b5cf6e3e6",
       "sectionName": "FO"
+    },
+    "strategy": {
+      "strategyId": "60e5efdb99f63a1b5cf6e3c2",
+      "strategyName": "EQ_52_WEEK_HIGH"
     },
     "dateTime": "2023-01-13 09:15:20",
     "timestamp": "1642012520",
@@ -500,6 +632,10 @@
       "sectionId": "60e5efdb99f63a1b5cf6e3e9",
       "sectionName": "EQ"
     },
+    "strategy": {
+      "strategyId": "60e5efdb99f63a1b5cf6e3c2",
+      "strategyName": "EQ_PRICE_SHOCKERS"
+    },
     "dateTime": "2023-01-14 11:35:10",
     "timestamp": "1642119310",
     "script": {
@@ -514,6 +650,10 @@
     "section": {
       "sectionId": "60e5efdb99f63a1b5cf6e3ec",
       "sectionName": "EQ"
+    },
+    "strategy": {
+      "strategyId": "60e5efdb99f63a1b5cf6e3c2",
+      "strategyName": "EQ_52_WEEK_LOW"
     },
     "dateTime": "2023-01-15 14:50:45",
     "timestamp": "1642222245",
@@ -530,6 +670,10 @@
       "sectionId": "60e5efdb99f63a1b5cf6e3ef",
       "sectionName": "EQ"
     },
+    "strategy": {
+      "strategyId": "60e5efdb99f63a1b5cf6e3c2",
+      "strategyName": "EQ_PRICE_SHOCKERS"
+    },
     "dateTime": "2023-01-16 09:25:30",
     "timestamp": "1642283730",
     "script": {
@@ -544,6 +688,10 @@
     "section": {
       "sectionId": "60e5efdb99f63a1b5cf6e3f2",
       "sectionName": "FO"
+    },
+    "strategy": {
+      "strategyId": "60e5efdb99f63a1b5cf6e3c2",
+      "strategyName": "EQ_52_WEEK_LOW"
     },
     "dateTime": "2023-01-17 12:40:15",
     "timestamp": "1642370415",
