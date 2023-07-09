@@ -1,0 +1,38 @@
+{
+  "name": "GeneticMinds LLP",
+  "address": {
+    "office": [
+      {
+        "street": "123",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "postalCode": "12345",
+        "country": "India",
+        "contact": {
+          "email": "we@geneticminds.com",
+          "phone": {
+            "tel": [],
+            "mobile": []
+          }
+        }
+      }
+    ],
+    "external": []
+  },
+  "reach": {
+    "email": {
+      "primary": "we@geneticminds.com",
+      "secondary": ""
+    },
+    "phone": {
+      "tel": [],
+      "mobile": []
+    },
+    "whatsapp": [],
+    "linkedin": [],
+    "instagram": [],
+    "website": {
+      "geneticminds": "https://www.geneticminds.com"
+    }
+  }
+}
