@@ -39,7 +39,7 @@
         "faqCategoryId": "60e9f8b994dc2e7b23e35a07",
         "categoryName": "Product and Services",
         "title": "Product and Services",
-        "icon": "mdi:credit-card-outline",
+        "icon": "fa6-solid:cart-plus",
         "subtitle": "Get help with our products and services",
         "querySets": [
           {
@@ -73,7 +73,7 @@
         "faqCategoryId": "60e9f8b994dc2e7b23e35a0d",
         "categoryName": "Broker Integration",
         "title": "Broker Integration",
-        "icon": "mdi:credit-card-outline",
+        "icon": "mdi:connection",
         "subtitle": "Get help with our supported brokers integration and operations",
         "querySets": [
           {
@@ -107,7 +107,7 @@
         "faqCategoryId": "60e9f8b994dc2e7b23e35a13",
         "categoryName": "Cancellation and Refund",
         "title": "Cancellation and Refund",
-        "icon": "mdi:credit-card-outline",
+        "icon": "mdi:account-cancel",
         "subtitle": "Get help with our cancellation and refund policies",
         "querySets": [
           {
