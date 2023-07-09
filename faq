@@ -1,142 +1,138 @@
-{
-  "faqData": {
-    "category": [
+[
+  {
+    "faqCategoryId": "60e9f8b994dc2e7b23e35a01",
+    "categoryName": "Payment",
+    "title": "Payment",
+    "icon": "mdi:credit-card-outline",
+    "subtitle": "Get help with payment",
+    "querySets": [
       {
-        "faqCategoryId": "60e9f8b994dc2e7b23e35a01",
-        "categoryName": "Payment",
-        "title": "Payment",
-        "icon": "mdi:credit-card-outline",
-        "subtitle": "Get help with payment",
-        "querySets": [
-          {
-            "querySetId": "60e9f8b994dc2e7b23e35a02",
-            "question": "Question 1",
-            "answer": "Lorem ipsum dolor sit amet. Aut commodi ipsum aut atque omnis ex sunt obcaecati et distinctio accusamus aut incidunt iste non veniam nihil? Qui nulla temporibus ut possimus harum vel dolorum impedit ut unde voluptatem ex corporis consectetur."
-          },
-          {
-            "querySetId": "60e9f8b994dc2e7b23e35a03",
-            "question": "Question 2",
-            "answer": "Lorem ipsum dolor sit amet. Aut commodi ipsum aut atque omnis ex sunt obcaecati et distinctio accusamus aut incidunt iste non veniam nihil? Qui nulla temporibus ut possimus harum vel dolorum impedit ut unde voluptatem ex corporis consectetur."
-          },
-          {
-            "querySetId": "60e9f8b994dc2e7b23e35a04",
-            "question": "Question 3",
-            "answer": "Lorem ipsum dolor sit amet. Aut commodi ipsum aut atque omnis ex sunt obcaecati et distinctio accusamus aut incidunt iste non veniam nihil? Qui nulla temporibus ut possimus harum vel dolorum impedit ut unde voluptatem ex corporis consectetur."
-          },
-          {
-            "querySetId": "60e9f8b994dc2e7b23e35a05",
-            "question": "Question 4",
-            "answer": "Lorem ipsum dolor sit amet. Aut commodi ipsum aut atque omnis ex sunt obcaecati et distinctio accusamus aut incidunt iste non veniam nihil? Qui nulla temporibus ut possimus harum vel dolorum impedit ut unde voluptatem ex corporis consectetur."
-          },
-          {
-            "querySetId": "60e9f8b994dc2e7b23e35a06",
-            "question": "Question 5",
-            "answer": "Lorem ipsum dolor sit amet. Aut commodi ipsum aut atque omnis ex sunt obcaecati et distinctio accusamus aut incidunt iste non veniam nihil? Qui nulla temporibus ut possimus harum vel dolorum impedit ut unde voluptatem ex corporis consectetur."
-          }
-        ]
+        "querySetId": "60e9f8b994dc2e7b23e35a02",
+        "question": "Question 1",
+        "answer": "Lorem ipsum dolor sit amet. Aut commodi ipsum aut atque omnis ex sunt obcaecati et distinctio accusamus aut incidunt iste non veniam nihil? Qui nulla temporibus ut possimus harum vel dolorum impedit ut unde voluptatem ex corporis consectetur."
       },
       {
-        "faqCategoryId": "60e9f8b994dc2e7b23e35a07",
-        "categoryName": "Product and Services",
-        "title": "Product and Services",
-        "icon": "fa6-solid:cart-plus",
-        "subtitle": "Get help with our products and services",
-        "querySets": [
-          {
-            "querySetId": "60e9f8b994dc2e7b23e35a08",
-            "question": "Question 1",
-            "answer": "Lorem ipsum dolor sit amet. Aut commodi ipsum aut atque omnis ex sunt obcaecati et distinctio accusamus aut incidunt iste non veniam nihil? Qui nulla temporibus ut possimus harum vel dolorum impedit ut unde voluptatem ex corporis consectetur."
-          },
-          {
-            "querySetId": "60e9f8b994dc2e7b23e35a09",
-            "question": "Question 2",
-            "answer": "Lorem ipsum dolor sit amet. Aut commodi ipsum aut atque omnis ex sunt obcaecati et distinctio accusamus aut incidunt iste non veniam nihil? Qui nulla temporibus ut possimus harum vel dolorum impedit ut unde voluptatem ex corporis consectetur."
-          },
-          {
-            "querySetId": "60e9f8b994dc2e7b23e35a0a",
-            "question": "Question 3",
-            "answer": "Lorem ipsum dolor sit amet. Aut commodi ipsum aut atque omnis ex sunt obcaecati et distinctio accusamus aut incidunt iste non veniam nihil? Qui nulla temporibus ut possimus harum vel dolorum impedit ut unde voluptatem ex corporis consectetur."
-          },
-          {
-            "querySetId": "60e9f8b994dc2e7b23e35a0b",
-            "question": "Question 4",
-            "answer": "Lorem ipsum dolor sit amet. Aut commodi ipsum aut atque omnis ex sunt obcaecati et distinctio accusamus aut incidunt iste non veniam nihil? Qui nulla temporibus ut possimus harum vel dolorum impedit ut unde voluptatem ex corporis consectetur."
-          },
-          {
-            "querySetId": "60e9f8b994dc2e7b23e35a0c",
-            "question": "Question 5",
-            "answer": "Lorem ipsum dolor sit amet. Aut commodi ipsum aut atque omnis ex sunt obcaecati et distinctio accusamus aut incidunt iste non veniam nihil? Qui nulla temporibus ut possimus harum vel dolorum impedit ut unde voluptatem ex corporis consectetur."
-          }
-        ]
+        "querySetId": "60e9f8b994dc2e7b23e35a03",
+        "question": "Question 2",
+        "answer": "Lorem ipsum dolor sit amet. Aut commodi ipsum aut atque omnis ex sunt obcaecati et distinctio accusamus aut incidunt iste non veniam nihil? Qui nulla temporibus ut possimus harum vel dolorum impedit ut unde voluptatem ex corporis consectetur."
       },
       {
-        "faqCategoryId": "60e9f8b994dc2e7b23e35a0d",
-        "categoryName": "Broker Integration",
-        "title": "Broker Integration",
-        "icon": "mdi:connection",
-        "subtitle": "Get help with our supported brokers integration and operations",
-        "querySets": [
-          {
-            "querySetId": "60e9f8b994dc2e7b23e35a0e",
-            "question": "Question 1",
-            "answer": "Lorem ipsum dolor sit amet. Aut commodi ipsum aut atque omnis ex sunt obcaecati et distinctio accusamus aut incidunt iste non veniam nihil? Qui nulla temporibus ut possimus harum vel dolorum impedit ut unde voluptatem ex corporis consectetur."
-          },
-          {
-            "querySetId": "60e9f8b994dc2e7b23e35a0f",
-            "question": "Question 2",
-            "answer": "Lorem ipsum dolor sit amet. Aut commodi ipsum aut atque omnis ex sunt obcaecati et distinctio accusamus aut incidunt iste non veniam nihil? Qui nulla temporibus ut possimus harum vel dolorum impedit ut unde voluptatem ex corporis consectetur."
-          },
-          {
-            "querySetId": "60e9f8b994dc2e7b23e35a10",
-            "question": "Question 3",
-            "answer": "Lorem ipsum dolor sit amet. Aut commodi ipsum aut atque omnis ex sunt obcaecati et distinctio accusamus aut incidunt iste non veniam nihil? Qui nulla temporibus ut possimus harum vel dolorum impedit ut unde voluptatem ex corporis consectetur."
-          },
-          {
-            "querySetId": "60e9f8b994dc2e7b23e35a11",
-            "question": "Question 4",
-            "answer": "Lorem ipsum dolor sit amet. Aut commodi ipsum aut atque omnis ex sunt obcaecati et distinctio accusamus aut incidunt iste non veniam nihil? Qui nulla temporibus ut possimus harum vel dolorum impedit ut unde voluptatem ex corporis consectetur."
-          },
-          {
-            "querySetId": "60e9f8b994dc2e7b23e35a12",
-            "question": "Question 5",
-            "answer": "Lorem ipsum dolor sit amet. Aut commodi ipsum aut atque omnis ex sunt obcaecati et distinctio accusamus aut incidunt iste non veniam nihil? Qui nulla temporibus ut possimus harum vel dolorum impedit ut unde voluptatem ex corporis consectetur."
-          }
-        ]
+        "querySetId": "60e9f8b994dc2e7b23e35a04",
+        "question": "Question 3",
+        "answer": "Lorem ipsum dolor sit amet. Aut commodi ipsum aut atque omnis ex sunt obcaecati et distinctio accusamus aut incidunt iste non veniam nihil? Qui nulla temporibus ut possimus harum vel dolorum impedit ut unde voluptatem ex corporis consectetur."
       },
       {
-        "faqCategoryId": "60e9f8b994dc2e7b23e35a13",
-        "categoryName": "Cancellation and Refund",
-        "title": "Cancellation and Refund",
-        "icon": "mdi:account-cancel",
-        "subtitle": "Get help with our cancellation and refund policies",
-        "querySets": [
-          {
-            "querySetId": "60e9f8b994dc2e7b23e35a14",
-            "question": "Question 1",
-            "answer": "Lorem ipsum dolor sit amet. Aut commodi ipsum aut atque omnis ex sunt obcaecati et distinctio accusamus aut incidunt iste non veniam nihil? Qui nulla temporibus ut possimus harum vel dolorum impedit ut unde voluptatem ex corporis consectetur."
-          },
-          {
-            "querySetId": "60e9f8b994dc2e7b23e35a15",
-            "question": "Question 2",
-            "answer": "Lorem ipsum dolor sit amet. Aut commodi ipsum aut atque omnis ex sunt obcaecati et distinctio accusamus aut incidunt iste non veniam nihil? Qui nulla temporibus ut possimus harum vel dolorum impedit ut unde voluptatem ex corporis consectetur."
-          },
-          {
-            "querySetId": "60e9f8b994dc2e7b23e35a16",
-            "question": "Question 3",
-            "answer": "Lorem ipsum dolor sit amet. Aut commodi ipsum aut atque omnis ex sunt obcaecati et distinctio accusamus aut incidunt iste non veniam nihil? Qui nulla temporibus ut possimus harum vel dolorum impedit ut unde voluptatem ex corporis consectetur."
-          },
-          {
-            "querySetId": "60e9f8b994dc2e7b23e35a17",
-            "question": "Question 4",
-            "answer": "Lorem ipsum dolor sit amet. Aut commodi ipsum aut atque omnis ex sunt obcaecati et distinctio accusamus aut incidunt iste non veniam nihil? Qui nulla temporibus ut possimus harum vel dolorum impedit ut unde voluptatem ex corporis consectetur."
-          },
-          {
-            "querySetId": "60e9f8b994dc2e7b23e35a18",
-            "question": "Question 5",
-            "answer": "Lorem ipsum dolor sit amet. Aut commodi ipsum aut atque omnis ex sunt obcaecati et distinctio accusamus aut incidunt iste non veniam nihil? Qui nulla temporibus ut possimus harum vel dolorum impedit ut unde voluptatem ex corporis consectetur."
-          }
-        ]
+        "querySetId": "60e9f8b994dc2e7b23e35a05",
+        "question": "Question 4",
+        "answer": "Lorem ipsum dolor sit amet. Aut commodi ipsum aut atque omnis ex sunt obcaecati et distinctio accusamus aut incidunt iste non veniam nihil? Qui nulla temporibus ut possimus harum vel dolorum impedit ut unde voluptatem ex corporis consectetur."
+      },
+      {
+        "querySetId": "60e9f8b994dc2e7b23e35a06",
+        "question": "Question 5",
+        "answer": "Lorem ipsum dolor sit amet. Aut commodi ipsum aut atque omnis ex sunt obcaecati et distinctio accusamus aut incidunt iste non veniam nihil? Qui nulla temporibus ut possimus harum vel dolorum impedit ut unde voluptatem ex corporis consectetur."
+      }
+    ]
+  },
+  {
+    "faqCategoryId": "60e9f8b994dc2e7b23e35a07",
+    "categoryName": "Product and Services",
+    "title": "Product and Services",
+    "icon": "fa6-solid:cart-plus",
+    "subtitle": "Get help with our products and services",
+    "querySets": [
+      {
+        "querySetId": "60e9f8b994dc2e7b23e35a08",
+        "question": "Question 1",
+        "answer": "Lorem ipsum dolor sit amet. Aut commodi ipsum aut atque omnis ex sunt obcaecati et distinctio accusamus aut incidunt iste non veniam nihil? Qui nulla temporibus ut possimus harum vel dolorum impedit ut unde voluptatem ex corporis consectetur."
+      },
+      {
+        "querySetId": "60e9f8b994dc2e7b23e35a09",
+        "question": "Question 2",
+        "answer": "Lorem ipsum dolor sit amet. Aut commodi ipsum aut atque omnis ex sunt obcaecati et distinctio accusamus aut incidunt iste non veniam nihil? Qui nulla temporibus ut possimus harum vel dolorum impedit ut unde voluptatem ex corporis consectetur."
+      },
+      {
+        "querySetId": "60e9f8b994dc2e7b23e35a0a",
+        "question": "Question 3",
+        "answer": "Lorem ipsum dolor sit amet. Aut commodi ipsum aut atque omnis ex sunt obcaecati et distinctio accusamus aut incidunt iste non veniam nihil? Qui nulla temporibus ut possimus harum vel dolorum impedit ut unde voluptatem ex corporis consectetur."
+      },
+      {
+        "querySetId": "60e9f8b994dc2e7b23e35a0b",
+        "question": "Question 4",
+        "answer": "Lorem ipsum dolor sit amet. Aut commodi ipsum aut atque omnis ex sunt obcaecati et distinctio accusamus aut incidunt iste non veniam nihil? Qui nulla temporibus ut possimus harum vel dolorum impedit ut unde voluptatem ex corporis consectetur."
+      },
+      {
+        "querySetId": "60e9f8b994dc2e7b23e35a0c",
+        "question": "Question 5",
+        "answer": "Lorem ipsum dolor sit amet. Aut commodi ipsum aut atque omnis ex sunt obcaecati et distinctio accusamus aut incidunt iste non veniam nihil? Qui nulla temporibus ut possimus harum vel dolorum impedit ut unde voluptatem ex corporis consectetur."
+      }
+    ]
+  },
+  {
+    "faqCategoryId": "60e9f8b994dc2e7b23e35a0d",
+    "categoryName": "Broker Integration",
+    "title": "Broker Integration",
+    "icon": "mdi:connection",
+    "subtitle": "Get help with our supported brokers integration and operations",
+    "querySets": [
+      {
+        "querySetId": "60e9f8b994dc2e7b23e35a0e",
+        "question": "Question 1",
+        "answer": "Lorem ipsum dolor sit amet. Aut commodi ipsum aut atque omnis ex sunt obcaecati et distinctio accusamus aut incidunt iste non veniam nihil? Qui nulla temporibus ut possimus harum vel dolorum impedit ut unde voluptatem ex corporis consectetur."
+      },
+      {
+        "querySetId": "60e9f8b994dc2e7b23e35a0f",
+        "question": "Question 2",
+        "answer": "Lorem ipsum dolor sit amet. Aut commodi ipsum aut atque omnis ex sunt obcaecati et distinctio accusamus aut incidunt iste non veniam nihil? Qui nulla temporibus ut possimus harum vel dolorum impedit ut unde voluptatem ex corporis consectetur."
+      },
+      {
+        "querySetId": "60e9f8b994dc2e7b23e35a10",
+        "question": "Question 3",
+        "answer": "Lorem ipsum dolor sit amet. Aut commodi ipsum aut atque omnis ex sunt obcaecati et distinctio accusamus aut incidunt iste non veniam nihil? Qui nulla temporibus ut possimus harum vel dolorum impedit ut unde voluptatem ex corporis consectetur."
+      },
+      {
+        "querySetId": "60e9f8b994dc2e7b23e35a11",
+        "question": "Question 4",
+        "answer": "Lorem ipsum dolor sit amet. Aut commodi ipsum aut atque omnis ex sunt obcaecati et distinctio accusamus aut incidunt iste non veniam nihil? Qui nulla temporibus ut possimus harum vel dolorum impedit ut unde voluptatem ex corporis consectetur."
+      },
+      {
+        "querySetId": "60e9f8b994dc2e7b23e35a12",
+        "question": "Question 5",
+        "answer": "Lorem ipsum dolor sit amet. Aut commodi ipsum aut atque omnis ex sunt obcaecati et distinctio accusamus aut incidunt iste non veniam nihil? Qui nulla temporibus ut possimus harum vel dolorum impedit ut unde voluptatem ex corporis consectetur."
+      }
+    ]
+  },
+  {
+    "faqCategoryId": "60e9f8b994dc2e7b23e35a13",
+    "categoryName": "Cancellation and Refund",
+    "title": "Cancellation and Refund",
+    "icon": "mdi:account-cancel",
+    "subtitle": "Get help with our cancellation and refund policies",
+    "querySets": [
+      {
+        "querySetId": "60e9f8b994dc2e7b23e35a14",
+        "question": "Question 1",
+        "answer": "Lorem ipsum dolor sit amet. Aut commodi ipsum aut atque omnis ex sunt obcaecati et distinctio accusamus aut incidunt iste non veniam nihil? Qui nulla temporibus ut possimus harum vel dolorum impedit ut unde voluptatem ex corporis consectetur."
+      },
+      {
+        "querySetId": "60e9f8b994dc2e7b23e35a15",
+        "question": "Question 2",
+        "answer": "Lorem ipsum dolor sit amet. Aut commodi ipsum aut atque omnis ex sunt obcaecati et distinctio accusamus aut incidunt iste non veniam nihil? Qui nulla temporibus ut possimus harum vel dolorum impedit ut unde voluptatem ex corporis consectetur."
+      },
+      {
+        "querySetId": "60e9f8b994dc2e7b23e35a16",
+        "question": "Question 3",
+        "answer": "Lorem ipsum dolor sit amet. Aut commodi ipsum aut atque omnis ex sunt obcaecati et distinctio accusamus aut incidunt iste non veniam nihil? Qui nulla temporibus ut possimus harum vel dolorum impedit ut unde voluptatem ex corporis consectetur."
+      },
+      {
+        "querySetId": "60e9f8b994dc2e7b23e35a17",
+        "question": "Question 4",
+        "answer": "Lorem ipsum dolor sit amet. Aut commodi ipsum aut atque omnis ex sunt obcaecati et distinctio accusamus aut incidunt iste non veniam nihil? Qui nulla temporibus ut possimus harum vel dolorum impedit ut unde voluptatem ex corporis consectetur."
+      },
+      {
+        "querySetId": "60e9f8b994dc2e7b23e35a18",
+        "question": "Question 5",
+        "answer": "Lorem ipsum dolor sit amet. Aut commodi ipsum aut atque omnis ex sunt obcaecati et distinctio accusamus aut incidunt iste non veniam nihil? Qui nulla temporibus ut possimus harum vel dolorum impedit ut unde voluptatem ex corporis consectetur."
       }
     ]
   }
-}
+]
