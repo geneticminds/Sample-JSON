@@ -1,82 +1,98 @@
 [
   {
     "strategyId": "5e8f57a8c45b177c7d285c91",
-    "strategyName": "Strategy 1",
-    "strategySection": {
+    "strategyName": "EQ_VOLUME_SHOCKERS",
+    "section": {
       "sectionId": "7d8f291e3a2e7c09aeb1bf68",
-      "sectionName": "Section 1"
-    }
+      "sectionName": "EQ"
+    },
+    "strategyDescription": "Lorem ipsum dolor sit amet. Et autem veniam est doloremque soluta ut enim earum ea pariatur itaque aut minima galisum qui voluptas alias. Ea dolores quia ut atque ducimus ex unde veniam.",
+    "accuracyPercentage": 89,
+    "isGMAssured": true,
+    "isUserContributed": false
   },
   {
     "strategyId": "5e8f57a8c45b177c7d285c91",
-    "strategyName": "Strategy 2",
-    "strategySection": {
+    "strategyName": "EQ_52_WEEK_LOW",
+    "section": {
       "sectionId": "7d8f291e3a2e7c09aeb1bf68",
-      "sectionName": "Section 1"
-    }
+      "sectionName": "EQ"
+    },
+    "strategyDescription": "Lorem ipsum dolor sit amet. Et autem veniam est doloremque soluta ut enim earum ea pariatur itaque aut minima galisum qui voluptas alias. Ea dolores quia ut atque ducimus ex unde veniam.",
+    "accuracyPercentage": 76,
+    "isGMAssured": true,
+    "isUserContributed": true
   },
   {
     "strategyId": "5e8f57a8c45b177c7d285c91",
-    "strategyName": "Strategy 3",
-    "strategySection": {
+    "strategyName": "EQ_52_WEEK_LOW",
+    "section": {
       "sectionId": "7d8f291e3a2e7c09aeb1bf68",
-      "sectionName": "Section 1"
-    }
+      "sectionName": "OP"
+    },
+    "strategyDescription": "Lorem ipsum dolor sit amet. Et autem veniam est doloremque soluta ut enim earum ea pariatur itaque aut minima galisum qui voluptas alias. Ea dolores quia ut atque ducimus ex unde veniam.",
+    "accuracyPercentage": 93,
+    "isGMAssured": true,
+    "isUserContributed": true
   },
   {
     "strategyId": "5e8f57a8c45b177c7d285c91",
-    "strategyName": "Strategy 4",
-    "strategySection": {
+    "strategyName": "EQ_52_WEEK_HIGH",
+    "section": {
       "sectionId": "7d8f291e3a2e7c09aeb1bf68",
-      "sectionName": "Section 1"
-    }
+      "sectionName": "EQ"
+    },
+    "strategyDescription": "Lorem ipsum dolor sit amet. Et autem veniam est doloremque soluta ut enim earum ea pariatur itaque aut minima galisum qui voluptas alias. Ea dolores quia ut atque ducimus ex unde veniam.",
+    "accuracyPercentage": 81,
+    "isGMAssured": false,
+    "isUserContributed": true
   },
   {
     "strategyId": "5e8f57a8c45b177c7d285c91",
-    "strategyName": "Strategy 5",
-    "strategySection": {
+    "strategyName": "EQ_PRICE_SHOCKERS",
+    "section": {
       "sectionId": "7d8f291e3a2e7c09aeb1bf68",
-      "sectionName": "Section 2"
-    }
+      "sectionName": "OP"
+    },
+    "strategyDescription": "Lorem ipsum dolor sit amet. Et autem veniam est doloremque soluta ut enim earum ea pariatur itaque aut minima galisum qui voluptas alias. Ea dolores quia ut atque ducimus ex unde veniam.",
+    "accuracyPercentage": 73,
+    "isGMAssured": true,
+    "isUserContributed": true
   },
   {
     "strategyId": "5e8f57a8c45b177c7d285c91",
-    "strategyName": "Strategy 6",
-    "strategySection": {
+    "strategyName": "EQ_52_WEEK_HIGH",
+    "section": {
       "sectionId": "7d8f291e3a2e7c09aeb1bf68",
-      "sectionName": "Section 2"
-    }
+      "sectionName": "FO"
+    },
+    "strategyDescription": "Lorem ipsum dolor sit amet. Et autem veniam est doloremque soluta ut enim earum ea pariatur itaque aut minima galisum qui voluptas alias. Ea dolores quia ut atque ducimus ex unde veniam.",
+    "accuracyPercentage": 85,
+    "isGMAssured": true,
+    "isUserContributed": false
   },
   {
     "strategyId": "5e8f57a8c45b177c7d285c91",
-    "strategyName": "Strategy 7",
-    "strategySection": {
+    "strategyName": "EQ_52_WEEK_HIGH",
+    "section": {
       "sectionId": "7d8f291e3a2e7c09aeb1bf68",
-      "sectionName": "Section 3"
-    }
+      "sectionName": "EQ"
+    },
+    "strategyDescription": "Lorem ipsum dolor sit amet. Et autem veniam est doloremque soluta ut enim earum ea pariatur itaque aut minima galisum qui voluptas alias. Ea dolores quia ut atque ducimus ex unde veniam.",
+    "accuracyPercentage": 91,
+    "isGMAssured": true,
+    "isUserContributed": false
   },
   {
     "strategyId": "5e8f57a8c45b177c7d285c91",
-    "strategyName": "Strategy 8",
-    "strategySection": {
+    "strategyName": "EQ_PRICE_SHOCKERS",
+    "section": {
       "sectionId": "7d8f291e3a2e7c09aeb1bf68",
-      "sectionName": "Section 3"
-    }
-  },
-  {
-    "strategyId": "5e8f57a8c45b177c7d285c91",
-    "strategyName": "Strategy 9",
-    "strategySection": {
-      "sectionId": "7d8f291e3a2e7c09aeb1bf68",
-      "sectionName": "Section 3"
-    }
-  },
-  {
-    "strategyId": "5e8f57a8c45b177c7d285c91",
-    "strategyName": "Strategy 10",
-    "strategySection": {
-      "sectionId": "7d8f291e3a2e7c09aeb1bf68",
-      "sectionName": "Section 1"
-    }
+      "sectionName": "EQ"
+    },
+    "strategyDescription": "Lorem ipsum dolor sit amet. Et autem veniam est doloremque soluta ut enim earum ea pariatur itaque aut minima galisum qui voluptas alias. Ea dolores quia ut atque ducimus ex unde veniam.",
+    "accuracyPercentage": 79,
+    "isGMAssured": true,
+    "isUserContributed": true
   }
 ]
