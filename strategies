@@ -1,0 +1,82 @@
+[
+  {
+    "strategyId": "5e8f57a8c45b177c7d285c91",
+    "strategyName": "Strategy 1",
+    "strategySection": {
+      "sectionId": "7d8f291e3a2e7c09aeb1bf68",
+      "sectionName": "Section 1"
+    }
+  },
+  {
+    "strategyId": "5e8f57a8c45b177c7d285c91",
+    "strategyName": "Strategy 2",
+    "strategySection": {
+      "sectionId": "7d8f291e3a2e7c09aeb1bf68",
+      "sectionName": "Section 1"
+    }
+  },
+  {
+    "strategyId": "5e8f57a8c45b177c7d285c91",
+    "strategyName": "Strategy 3",
+    "strategySection": {
+      "sectionId": "7d8f291e3a2e7c09aeb1bf68",
+      "sectionName": "Section 1"
+    }
+  },
+  {
+    "strategyId": "5e8f57a8c45b177c7d285c91",
+    "strategyName": "Strategy 4",
+    "strategySection": {
+      "sectionId": "7d8f291e3a2e7c09aeb1bf68",
+      "sectionName": "Section 1"
+    }
+  },
+  {
+    "strategyId": "5e8f57a8c45b177c7d285c91",
+    "strategyName": "Strategy 5",
+    "strategySection": {
+      "sectionId": "7d8f291e3a2e7c09aeb1bf68",
+      "sectionName": "Section 2"
+    }
+  },
+  {
+    "strategyId": "5e8f57a8c45b177c7d285c91",
+    "strategyName": "Strategy 6",
+    "strategySection": {
+      "sectionId": "7d8f291e3a2e7c09aeb1bf68",
+      "sectionName": "Section 2"
+    }
+  },
+  {
+    "strategyId": "5e8f57a8c45b177c7d285c91",
+    "strategyName": "Strategy 7",
+    "strategySection": {
+      "sectionId": "7d8f291e3a2e7c09aeb1bf68",
+      "sectionName": "Section 3"
+    }
+  },
+  {
+    "strategyId": "5e8f57a8c45b177c7d285c91",
+    "strategyName": "Strategy 8",
+    "strategySection": {
+      "sectionId": "7d8f291e3a2e7c09aeb1bf68",
+      "sectionName": "Section 3"
+    }
+  },
+  {
+    "strategyId": "5e8f57a8c45b177c7d285c91",
+    "strategyName": "Strategy 9",
+    "strategySection": {
+      "sectionId": "7d8f291e3a2e7c09aeb1bf68",
+      "sectionName": "Section 3"
+    }
+  },
+  {
+    "strategyId": "5e8f57a8c45b177c7d285c91",
+    "strategyName": "Strategy 10",
+    "strategySection": {
+      "sectionId": "7d8f291e3a2e7c09aeb1bf68",
+      "sectionName": "Section 1"
+    }
+  }
+]
