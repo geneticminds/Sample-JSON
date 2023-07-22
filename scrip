@@ -15,67 +15,61 @@
       "exchangeName": "National Stock Exchange",
       "exchangeCode": "NSE",
       "exchangeLogo": "nse_logo.png"
+    },
+    "category": {
+      "categoryId": "609c1549b779ac001f8f446d",
+      "categoryName": "Large Cap"
     }
   },
   {
-    "scripId": "609c1549b779ac001f8f446d",
+    "scripId": "609c1549b779ac001f8f446e",
     "scripName": "Hindustan Unilever Ltd",
     "ltp": {
       "value": 2605.15,
       "timestamp": 1679788530
     },
     "section": {
-      "sectionId": "609c1549b779ac001f8f446e",
+      "sectionId": "609c1549b779ac001f8f446f",
       "sectionName": "Equity"
     },
     "exchange": {
-      "exchangeId": "609c1549b779ac001f8f446f",
+      "exchangeId": "609c1549b779ac001f8f4470",
       "exchangeName": "Bombay Stock Exchange",
       "exchangeCode": "BSE",
       "exchangeLogo": "bse_logo.png"
+    },
+    "category": {
+      "categoryId": "609c1549b779ac001f8f4471",
+      "categoryName": "Large Cap"
     }
   },
   {
-    "scripId": "609c1549b779ac001f8f4470",
+    "scripId": "609c1549b779ac001f8f4472",
     "scripName": "ICICI Bank Ltd",
     "ltp": {
       "value": 900.80,
       "timestamp": 1679788530
     },
     "section": {
-      "sectionId": "609c1549b779ac001f8f4471",
+      "sectionId": "609c1549b779ac001f8f4473",
       "sectionName": "Equity"
     },
     "exchange": {
-      "exchangeId": "609c1549b779ac001f8f4472",
+      "exchangeId": "609c1549b779ac001f8f4474",
       "exchangeName": "National Stock Exchange",
       "exchangeCode": "NSE",
       "exchangeLogo": "nse_logo.png"
-    }
-  },
-  {
-    "scripId": "609c1549b779ac001f8f4473",
-    "scripName": "Bajaj Finance Ltd",
-    "ltp": {
-      "value": 5872.50,
-      "timestamp": 1679788530
     },
-    "section": {
-      "sectionId": "609c1549b779ac001f8f4474",
-      "sectionName": "Equity"
-    },
-    "exchange": {
-      "exchangeId": "609c1549b779ac001f8f4475",
-      "exchangeName": "National Stock Exchange",
-      "exchangeCode": "NSE",
-      "exchangeLogo": "nse_logo.png"
+    "category": {
+      "categoryId": "609c1549b779ac001f8f4475",
+      "categoryName": "Large Cap"
     }
   },
   {
     "scripId": "609c1549b779ac001f8f4476",
-    "scripName": "Infosys Ltd",
+    "scripName": "Bajaj Finance Ltd",
     "ltp": {
-      "value": 1900.25,
+      "value": 5872.50,
       "timestamp": 1679788530
     },
     "section": {
@@ -87,67 +81,61 @@
       "exchangeName": "National Stock Exchange",
       "exchangeCode": "NSE",
       "exchangeLogo": "nse_logo.png"
+    },
+    "category": {
+      "categoryId": "609c1549b779ac001f8f4479",
+      "categoryName": "Large Cap"
     }
   },
   {
-    "scripId": "609c1549b779ac001f8f4479",
+    "scripId": "609c1549b779ac001f8f447a",
+    "scripName": "Infosys Ltd",
+    "ltp": {
+      "value": 1900.25,
+      "timestamp": 1679788530
+    },
+    "section": {
+      "sectionId": "609c1549b779ac001f8f447b",
+      "sectionName": "Equity"
+    },
+    "exchange": {
+      "exchangeId": "609c1549b779ac001f8f447c",
+      "exchangeName": "National Stock Exchange",
+      "exchangeCode": "NSE",
+      "exchangeLogo": "nse_logo.png"
+    },
+    "category": {
+      "categoryId": "609c1549b779ac001f8f447d",
+      "categoryName": "Large Cap"
+    }
+  },
+  {
+    "scripId": "609c1549b779ac001f8f447e",
     "scripName": "Reliance Industries Ltd",
     "ltp": {
       "value": 2485.60,
       "timestamp": 1679788530
     },
     "section": {
-      "sectionId": "609c1549b779ac001f8f447a",
+      "sectionId": "609c1549b779ac001f8f447f",
       "sectionName": "Equity"
     },
     "exchange": {
-      "exchangeId": "609c1549b779ac001f8f447b",
+      "exchangeId": "609c1549b779ac001f8f4480",
       "exchangeName": "Bombay Stock Exchange",
       "exchangeCode": "BSE",
       "exchangeLogo": "bse_logo.png"
-    }
-  },
-  {
-    "scripId": "609c1549b779ac001f8f447c",
-    "scripName": "State Bank of India",
-    "ltp": {
-      "value": 430.85,
-      "timestamp": 1679788530
     },
-    "section": {
-      "sectionId": "609c1549b779ac001f8f447d",
-      "sectionName": "Equity"
-    },
-    "exchange": {
-      "exchangeId": "609c1549b779ac001f8f447e",
-      "exchangeName": "Bombay Stock Exchange",
-      "exchangeCode": "BSE",
-      "exchangeLogo": "bse_logo.png"
-    }
-  },
-  {
-    "scripId": "609c1549b779ac001f8f447f",
-    "scripName": "HDFC Bank Ltd",
-    "ltp": {
-      "value": 1560.35,
-      "timestamp": 1679788530
-    },
-    "section": {
-      "sectionId": "609c1549b779ac001f8f4480",
-      "sectionName": "Equity"
-    },
-    "exchange": {
-      "exchangeId": "609c1549b779ac001f8f4481",
-      "exchangeName": "National Stock Exchange",
-      "exchangeCode": "NSE",
-      "exchangeLogo": "nse_logo.png"
+    "category": {
+      "categoryId": "609c1549b779ac001f8f4481",
+      "categoryName": "Large Cap"
     }
   },
   {
     "scripId": "609c1549b779ac001f8f4482",
-    "scripName": "Maruti Suzuki India Ltd",
+    "scripName": "State Bank of India",
     "ltp": {
-      "value": 8675.00,
+      "value": 430.85,
       "timestamp": 1679788530
     },
     "section": {
@@ -159,24 +147,76 @@
       "exchangeName": "Bombay Stock Exchange",
       "exchangeCode": "BSE",
       "exchangeLogo": "bse_logo.png"
+    },
+    "category": {
+      "categoryId": "609c1549b779ac001f8f4485",
+      "categoryName": "Large Cap"
     }
   },
   {
-    "scripId": "609c1549b779ac001f8f4485",
+    "scripId": "609c1549b779ac001f8f4486",
+    "scripName": "HDFC Bank Ltd",
+    "ltp": {
+      "value": 1560.35,
+      "timestamp": 1679788530
+    },
+    "section": {
+      "sectionId": "609c1549b779ac001f8f4487",
+      "sectionName": "Equity"
+    },
+    "exchange": {
+      "exchangeId": "609c1549b779ac001f8f4488",
+      "exchangeName": "National Stock Exchange",
+      "exchangeCode": "NSE",
+      "exchangeLogo": "nse_logo.png"
+    },
+    "category": {
+      "categoryId": "609c1549b779ac001f8f4489",
+      "categoryName": "Large Cap"
+    }
+  },
+  {
+    "scripId": "609c1549b779ac001f8f448a",
+    "scripName": "Maruti Suzuki India Ltd",
+    "ltp": {
+      "value": 8675.00,
+      "timestamp": 1679788530
+    },
+    "section": {
+      "sectionId": "609c1549b779ac001f8f448b",
+      "sectionName": "Equity"
+    },
+    "exchange": {
+      "exchangeId": "609c1549b779ac001f8f448c",
+      "exchangeName": "Bombay Stock Exchange",
+      "exchangeCode": "BSE",
+      "exchangeLogo": "bse_logo.png"
+    },
+    "category": {
+      "categoryId": "609c1549b779ac001f8f448d",
+      "categoryName": "Large Cap"
+    }
+  },
+  {
+    "scripId": "609c1549b779ac001f8f448e",
     "scripName": "ITC Ltd",
     "ltp": {
       "value": 255.75,
       "timestamp": 1679788530
     },
     "section": {
-      "sectionId": "609c1549b779ac001f8f4486",
+      "sectionId": "609c1549b779ac001f8f448f",
       "sectionName": "Equity"
     },
     "exchange": {
-      "exchangeId": "609c1549b779ac001f8f4487",
+      "exchangeId": "609c1549b779ac001f8f4490",
       "exchangeName": "National Stock Exchange",
       "exchangeCode": "NSE",
       "exchangeLogo": "nse_logo.png"
+    },
+    "category": {
+      "categoryId": "609c1549b779ac001f8f4491",
+      "categoryName": "Large Cap"
     }
   }
 ]
