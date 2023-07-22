@@ -13,7 +13,7 @@
     "status": "UNAVAILABLE"
   },
   {
-    "strategyId": "5e8f57a8c45b177c7d285c91",
+    "strategyId": "5e8f57a8c45b177c7d285c92",
     "strategyName": "EQ_52_WEEK_LOW",
     "section": {
       "sectionId": "7d8f291e3a2e7c09aeb1bf68",
@@ -26,7 +26,7 @@
     "status": "ACTIVE"
   },
   {
-    "strategyId": "5e8f57a8c45b177c7d285c91",
+    "strategyId": "5e8f57a8c45b177c7d285c93",
     "strategyName": "EQ_52_WEEK_LOW",
     "section": {
       "sectionId": "7d8f291e3a2e7c09aeb1bf68",
@@ -39,7 +39,7 @@
     "status": "UNAVAILABLE"
   },
   {
-    "strategyId": "5e8f57a8c45b177c7d285c91",
+    "strategyId": "5e8f57a8c45b177c7d285c94",
     "strategyName": "EQ_52_WEEK_HIGH",
     "section": {
       "sectionId": "7d8f291e3a2e7c09aeb1bf68",
@@ -52,7 +52,7 @@
     "status": "AVAILABLE"
   },
   {
-    "strategyId": "5e8f57a8c45b177c7d285c91",
+    "strategyId": "5e8f57a8c45b177c7d285c95",
     "strategyName": "EQ_PRICE_SHOCKERS",
     "section": {
       "sectionId": "7d8f291e3a2e7c09aeb1bf68",
@@ -65,7 +65,7 @@
     "status": "ACTIVE"
   },
   {
-    "strategyId": "5e8f57a8c45b177c7d285c91",
+    "strategyId": "5e8f57a8c45b177c7d285c96",
     "strategyName": "EQ_52_WEEK_HIGH",
     "section": {
       "sectionId": "7d8f291e3a2e7c09aeb1bf68",
@@ -78,7 +78,7 @@
     "status": "ACTIVE"
   },
   {
-    "strategyId": "5e8f57a8c45b177c7d285c91",
+    "strategyId": "5e8f57a8c45b177c7d285c97",
     "strategyName": "EQ_52_WEEK_HIGH",
     "section": {
       "sectionId": "7d8f291e3a2e7c09aeb1bf68",
@@ -91,7 +91,7 @@
     "status": "AVAILABLE"
   },
   {
-    "strategyId": "5e8f57a8c45b177c7d285c91",
+    "strategyId": "5e8f57a8c45b177c7d285c98",
     "strategyName": "EQ_PRICE_SHOCKERS",
     "section": {
       "sectionId": "7d8f291e3a2e7c09aeb1bf68",
