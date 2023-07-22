@@ -1,0 +1,182 @@
+[
+  {
+    "scripId": "609c1549b779ac001f8f446a",
+    "scripName": "Tata Consultancy Services Ltd",
+    "ltp": {
+      "value": 3520.40,
+      "timestamp": 1679788530
+    },
+    "section": {
+      "sectionId": "609c1549b779ac001f8f446b",
+      "sectionName": "Equity"
+    },
+    "exchange": {
+      "exchangeId": "609c1549b779ac001f8f446c",
+      "exchangeName": "National Stock Exchange",
+      "exchangeCode": "NSE",
+      "exchangeLogo": "nse_logo.png"
+    }
+  },
+  {
+    "scripId": "609c1549b779ac001f8f446d",
+    "scripName": "Hindustan Unilever Ltd",
+    "ltp": {
+      "value": 2605.15,
+      "timestamp": 1679788530
+    },
+    "section": {
+      "sectionId": "609c1549b779ac001f8f446e",
+      "sectionName": "Equity"
+    },
+    "exchange": {
+      "exchangeId": "609c1549b779ac001f8f446f",
+      "exchangeName": "Bombay Stock Exchange",
+      "exchangeCode": "BSE",
+      "exchangeLogo": "bse_logo.png"
+    }
+  },
+  {
+    "scripId": "609c1549b779ac001f8f4470",
+    "scripName": "ICICI Bank Ltd",
+    "ltp": {
+      "value": 900.80,
+      "timestamp": 1679788530
+    },
+    "section": {
+      "sectionId": "609c1549b779ac001f8f4471",
+      "sectionName": "Equity"
+    },
+    "exchange": {
+      "exchangeId": "609c1549b779ac001f8f4472",
+      "exchangeName": "National Stock Exchange",
+      "exchangeCode": "NSE",
+      "exchangeLogo": "nse_logo.png"
+    }
+  },
+  {
+    "scripId": "609c1549b779ac001f8f4473",
+    "scripName": "Bajaj Finance Ltd",
+    "ltp": {
+      "value": 5872.50,
+      "timestamp": 1679788530
+    },
+    "section": {
+      "sectionId": "609c1549b779ac001f8f4474",
+      "sectionName": "Equity"
+    },
+    "exchange": {
+      "exchangeId": "609c1549b779ac001f8f4475",
+      "exchangeName": "National Stock Exchange",
+      "exchangeCode": "NSE",
+      "exchangeLogo": "nse_logo.png"
+    }
+  },
+  {
+    "scripId": "609c1549b779ac001f8f4476",
+    "scripName": "Infosys Ltd",
+    "ltp": {
+      "value": 1900.25,
+      "timestamp": 1679788530
+    },
+    "section": {
+      "sectionId": "609c1549b779ac001f8f4477",
+      "sectionName": "Equity"
+    },
+    "exchange": {
+      "exchangeId": "609c1549b779ac001f8f4478",
+      "exchangeName": "National Stock Exchange",
+      "exchangeCode": "NSE",
+      "exchangeLogo": "nse_logo.png"
+    }
+  },
+  {
+    "scripId": "609c1549b779ac001f8f4479",
+    "scripName": "Reliance Industries Ltd",
+    "ltp": {
+      "value": 2485.60,
+      "timestamp": 1679788530
+    },
+    "section": {
+      "sectionId": "609c1549b779ac001f8f447a",
+      "sectionName": "Equity"
+    },
+    "exchange": {
+      "exchangeId": "609c1549b779ac001f8f447b",
+      "exchangeName": "Bombay Stock Exchange",
+      "exchangeCode": "BSE",
+      "exchangeLogo": "bse_logo.png"
+    }
+  },
+  {
+    "scripId": "609c1549b779ac001f8f447c",
+    "scripName": "State Bank of India",
+    "ltp": {
+      "value": 430.85,
+      "timestamp": 1679788530
+    },
+    "section": {
+      "sectionId": "609c1549b779ac001f8f447d",
+      "sectionName": "Equity"
+    },
+    "exchange": {
+      "exchangeId": "609c1549b779ac001f8f447e",
+      "exchangeName": "Bombay Stock Exchange",
+      "exchangeCode": "BSE",
+      "exchangeLogo": "bse_logo.png"
+    }
+  },
+  {
+    "scripId": "609c1549b779ac001f8f447f",
+    "scripName": "HDFC Bank Ltd",
+    "ltp": {
+      "value": 1560.35,
+      "timestamp": 1679788530
+    },
+    "section": {
+      "sectionId": "609c1549b779ac001f8f4480",
+      "sectionName": "Equity"
+    },
+    "exchange": {
+      "exchangeId": "609c1549b779ac001f8f4481",
+      "exchangeName": "National Stock Exchange",
+      "exchangeCode": "NSE",
+      "exchangeLogo": "nse_logo.png"
+    }
+  },
+  {
+    "scripId": "609c1549b779ac001f8f4482",
+    "scripName": "Maruti Suzuki India Ltd",
+    "ltp": {
+      "value": 8675.00,
+      "timestamp": 1679788530
+    },
+    "section": {
+      "sectionId": "609c1549b779ac001f8f4483",
+      "sectionName": "Equity"
+    },
+    "exchange": {
+      "exchangeId": "609c1549b779ac001f8f4484",
+      "exchangeName": "Bombay Stock Exchange",
+      "exchangeCode": "BSE",
+      "exchangeLogo": "bse_logo.png"
+    }
+  },
+  {
+    "scripId": "609c1549b779ac001f8f4485",
+    "scripName": "ITC Ltd",
+    "ltp": {
+      "value": 255.75,
+      "timestamp": 1679788530
+    },
+    "section": {
+      "sectionId": "609c1549b779ac001f8f4486",
+      "sectionName": "Equity"
+    },
+    "exchange": {
+      "exchangeId": "609c1549b779ac001f8f4487",
+      "exchangeName": "National Stock Exchange",
+      "exchangeCode": "NSE",
+      "exchangeLogo": "nse_logo.png"
+    }
+  }
+]
