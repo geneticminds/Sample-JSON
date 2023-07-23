@@ -1,0 +1,242 @@
+[
+  {
+    "holdingId": "612f0dc6c022370004d47a01",
+    "broker": {
+      "brokerId": "612f0dc6c022370004d47a02",
+      "brokerName": "HDFC Securities"
+    },
+    "scrip": {
+      "scripId": "612f0dc6c022370004d47a03",
+      "scripName": "HDFCBANK"
+    },
+    "quantity": "300",
+    "average": "1425.50",
+    "ltp": 1440,
+    "invested": 427650,
+    "current": 432000
+  },
+  {
+    "holdingId": "712f0dc6c022370004d47a04",
+    "broker": {
+      "brokerId": "712f0dc6c022370004d47a05",
+      "brokerName": "Kotak Securities"
+    },
+    "scrip": {
+      "scripId": "712f0dc6c022370004d47a06",
+      "scripName": "INFY"
+    },
+    "quantity": "100",
+    "average": "1620.75",
+    "ltp": 1650,
+    "invested": 162075,
+    "current": 165000
+  },
+  {
+    "holdingId": "812f0dc6c022370004d47a07",
+    "broker": {
+      "brokerId": "812f0dc6c022370004d47a08",
+      "brokerName": "Angel Broking"
+    },
+    "scrip": {
+      "scripId": "812f0dc6c022370004d47a09",
+      "scripName": "RELIANCE"
+    },
+    "quantity": "200",
+    "average": "1870.25",
+    "ltp": 1900,
+    "invested": 374050,
+    "current": 380000
+  },
+  {
+    "holdingId": "912f0dc6c022370004d47a10",
+    "broker": {
+      "brokerId": "912f0dc6c022370004d47a11",
+      "brokerName": "Sharekhan"
+    },
+    "scrip": {
+      "scripId": "912f0dc6c022370004d47a12",
+      "scripName": "TCS"
+    },
+    "quantity": "150",
+    "average": "3095.80",
+    "ltp": 3080,
+    "invested": 464370,
+    "current": 462000
+  },
+  {
+    "holdingId": "a12f0dc6c022370004d47a13",
+    "broker": {
+      "brokerId": "a12f0dc6c022370004d47a14",
+      "brokerName": "Axis Direct"
+    },
+    "scrip": {
+      "scripId": "a12f0dc6c022370004d47a15",
+      "scripName": "MARUTI"
+    },
+    "quantity": "50",
+    "average": "7475.40",
+    "ltp": 7450,
+    "invested": 373770,
+    "current": 372500
+  },
+  {
+    "holdingId": "b12f0dc6c022370004d47a16",
+    "broker": {
+      "brokerId": "b12f0dc6c022370004d47a17",
+      "brokerName": "Motilal Oswal"
+    },
+    "scrip": {
+      "scripId": "b12f0dc6c022370004d47a18",
+      "scripName": "HUL"
+    },
+    "quantity": "80",
+    "average": "2530.60",
+    "ltp": 2550,
+    "invested": 202448,
+    "current": 204000
+  },
+  {
+    "holdingId": "c12f0dc6c022370004d47a19",
+    "broker": {
+      "brokerId": "c12f0dc6c022370004d47a20",
+      "brokerName": "Geojit Financial Services"
+    },
+    "scrip": {
+      "scripId": "c12f0dc6c022370004d47a21",
+      "scripName": "ADANIPORTS"
+    },
+    "quantity": "120",
+    "average": "800.90",
+    "ltp": 805,
+    "invested": 96000,
+    "current": 96600
+  },
+  {
+    "holdingId": "d12f0dc6c022370004d47a22",
+    "broker": {
+      "brokerId": "d12f0dc6c022370004d47a23",
+      "brokerName": "Edelweiss Broking"
+    },
+    "scrip": {
+      "scripId": "d12f0dc6c022370004d47a24",
+      "scripName": "ASIANPAINT"
+    },
+    "quantity": "70",
+    "average": "3260.35",
+    "ltp": 3240,
+    "invested": 228424.5,
+    "current": 226800
+  },
+  {
+    "holdingId": "e12f0dc6c022370004d47a25",
+    "broker": {
+      "brokerId": "e12f0dc6c022370004d47a26",
+      "brokerName": "ICICI Direct"
+    },
+    "scrip": {
+      "scripId": "e12f0dc6c022370004d47a27",
+      "scripName": "WIPRO"
+    },
+    "quantity": "220",
+    "average": "750.15",
+    "ltp": 755,
+    "invested": 165033,
+    "current": 166100
+  },
+  {
+    "holdingId": "f12f0dc6c022370004d47a28",
+    "broker": {
+      "brokerId": "f12f0dc6c022370004d47a29",
+      "brokerName": "KARVY Stock Broking"
+    },
+    "scrip": {
+      "scripId": "f12f0dc6c022370004d47a30",
+      "scripName": "COALINDIA"
+    },
+    "quantity": "180",
+    "average": "200.85",
+    "ltp": 205,
+    "invested": 36153,
+    "current": 36900
+  },
+  {
+    "holdingId": "g12f0dc6c022370004d47a31",
+    "broker": {
+      "brokerId": "g12f0dc6c022370004d47a32",
+      "brokerName": "Geojit Financial Services"
+    },
+    "scrip": {
+      "scripId": "g12f0dc6c022370004d47a33",
+      "scripName": "HCLTECH"
+    },
+    "quantity": "130",
+    "average": "1145.25",
+    "ltp": 1160,
+    "invested": 148928.5,
+    "current": 150800
+  },
+  {
+    "holdingId": "h12f0dc6c022370004d47a34",
+    "broker": {
+      "brokerId": "h12f0dc6c022370004d47a35",
+      "brokerName": "Axis Direct"
+    },
+    "scrip": {
+      "scripId": "h12f0dc6c022370004d47a36",
+      "scripName": "TITAN"
+    },
+    "quantity": "90",
+    "average": "1675.30",
+    "ltp": 1690,
+    "invested": 150777,
+    "current": 152100
+  },
+  {
+    "holdingId": "i12f0dc6c022370004d47a37",
+    "broker": {
+      "brokerId": "i12f0dc6c022370004d47a38",
+      "brokerName": "Motilal Oswal"
+    },
+    "scrip": {
+      "scripId": "i12f0dc6c022370004d47a39",
+      "scripName": "BRITANNIA"
+    },
+    "quantity": "60",
+    "average": "3990.60",
+    "ltp": 4005,
+    "invested": 239436,
+    "current": 240300
+  },
+  {
+    "holdingId": "j12f0dc6c022370004d47a40",
+    "broker": {
+      "brokerId": "j12f0dc6c022370004d47a41",
+      "brokerName": "HDFC Securities"
+    },
+    "scrip": {
+      "scripId": "j12f0dc6c022370004d47a42",
+      "scripName": "CIPLA"
+    },
+    "quantity": "120",
+    "average": "915.90",
+    "ltp": 920,
+    "invested": 109908,
+    "current": 110400
+  },
+  {
+    "holdingId": "k12f0dc6c022370004d47a43",
+    "broker": {
+      "brokerId": "k12f0dc6c022370004d47a44",
+      "brokerName": "Sharekhan"
+    },
+    "scrip": {
+      "scripId": "k12f0dc6c022370004d47a45",
+      "scripName": "SUNPHARMA"
+    },
+    "quantity": "80",
+    "average": "630.80",
+    "ltp": 625,
+    "invested": 50464,
+    "current": 50000
+  }
+]
