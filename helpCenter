@@ -1,3 +1,4 @@
+data : {
 popularArticles: [
     {
       slug: 'getting-started',
@@ -590,3 +591,4 @@ popularArticles: [
       subtitle: 'A group of people living in the same place or having a particular.'
     }
   ]
+}
